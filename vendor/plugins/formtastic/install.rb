@@ -1,0 +1,1 @@
+puts "Run `./script/generate formtastic` if you want (copies optional config file and some stylesheets into your app)"
