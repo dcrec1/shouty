@@ -1,1 +1,0 @@
-`rake db:test:prepare`

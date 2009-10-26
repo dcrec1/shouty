@@ -21,5 +21,11 @@ production:
   pool: 5
   timeout: 5000
 
-cucumber:
+cucumber: &CUCUMBER
   <<: *TEST
+  
+culerity_development:
+  <<: *CUCUMBER
+  
+culerity_continuousintegration:
+  <<: *CUCUMBER

@@ -1,0 +1,1 @@
+page.insert_html :top, ".shouties", :partial => "shared/shouty", :locals => { :shouty => @shouty }

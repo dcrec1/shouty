@@ -15,4 +15,22 @@ rescue Exception => e
   puts e
 end
 
-task :build => [:'db:migrate', :spec, :cucumber, :'metrics:all']
+def exec(cmd)
+  puts cmd
+  system cmd
+end
+
+namespace :cucumber do
+  task :default => [:'db:test:prepare'] do
+    exec "cucumber"
+  end
+  
+  task :enhanced => [:'db:test:prepare', :'culerity:rails:start'] do
+    exec "cucumber -p enhanced"
+    exec "rake culerity:rails:stop"
+  end
+  
+  task :all => [:default, :enhanced]
+end
+
+task :build => [:'db:migrate', :spec, :'cucumber:all', :'metrics:all']
