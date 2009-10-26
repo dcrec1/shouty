@@ -9,11 +9,10 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20091026010007) do
+ActiveRecord::Schema.define(:version => 20091026021655) do
 
   create_table "shouties", :force => true do |t|
     t.integer  "user_id"
-    t.datetime "date"
     t.text     "body"
     t.datetime "created_at"
     t.datetime "updated_at"
