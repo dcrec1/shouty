@@ -1,0 +1,7 @@
+en:
+  remarkable:
+    authlogic: 
+      be_authentic: 
+        description: "should acts as authentic"
+        expectations: 
+          be_authentic: "{{subject_name}} had 'password=' and 'valid_password?' methods from Authlogic"

@@ -8,8 +8,11 @@ require 'rake/testtask'
 require 'rake/rdoctask'
 
 require 'tasks/rails'
-require begin
+
+begin
   require 'metric_fu'
-rescue Exception => 2
+rescue Exception => e
   puts e
-endtask :build => [:'db:migrate', :spec, :cucumber, :'metrics:all']
+end
+
+task :build => [:'db:migrate', :spec, :cucumber, :'metrics:all']
