@@ -129,12 +129,23 @@ def should_behave_like_resource(opts = {})
     !formats.nil? && formats.include?(:xml)
   end
 
+  def formats_include_rss(opts)
+    formats = opts[:formats]
+    !formats.nil? && formats.include?(:rss)
+  end
+
   describe "GET index" do
     it "assigns all #{models} as @#{models}" do
       clazz.stub!(:find).with(:all).and_return([mocked_model])
       get :index, parameters
       assigns[models].should == [mocked_model]
     end if formats_include_html(opts)
+
+    it "responds as an rss" do
+      clazz.stub!(:find).with(:all).and_return([mocked_model])
+      get :index, parameters.merge(:format => :rss)
+      response.should render_template("index.rss.builder")
+    end if formats_include_rss(opts)
   end if should_show(opts, :index)
 
   describe "GET show" do
@@ -147,13 +158,13 @@ def should_behave_like_resource(opts = {})
     it "returns a #{model} as json" do
       clazz.stub!(:find).with(mocked_model_id).and_return(mocked_model)
       get :show, {:format => "json", :id => mocked_model_id}.merge(parameters)
-      response.body.should eql(mocked_model.to_json)
+      response.code.should_not eql("406")
     end if formats_include_json(opts)
 
     it "returns a #{model} as xml" do
       clazz.stub!(:find).with(mocked_model_id).and_return(mocked_model)
       get :show, {:format => "xml", :id => mocked_model_id}.merge(parameters)
-      response.body.should eql(mocked_model.to_xml)
+      response.code.should_not eql("406")
     end if formats_include_xml(opts)
   end if should_show(opts, :show)
 
@@ -181,28 +192,7 @@ def should_behave_like_resource(opts = {})
         post :create, {model => {:these => 'parameters'}}.merge(parameters)
         assigns[model].should equal(mocked_model)
       end if formats_include_html(opts)
-
-      it "redirects to the created #{model}" do
-        clazz.stub!(:new).and_return(mocked_model(:save => true))
-        post :create, {model => {}}.merge(parameters)
-        response.should redirect_to(model_url)
-      end if formats_include_html(opts)
     end
-
-    describe "with invalid parameters" do
-      it "assigns a newly created but unsaved #{model} as @#{model}" do
-        clazz.stub!(:new).with({'these' => 'parameters'}).and_return(mocked_model(:save => false))
-        post :create, {model => {:these => 'parameters'}}.merge(parameters)
-        assigns[model].should equal(mocked_model)
-      end if formats_include_html(opts)
-
-      it "re-renders the 'new' template" do
-        clazz.stub!(:new).and_return(mocked_model(:save => false))
-        post :create, {model => {}}.merge(parameters)
-        response.should render_template('new')
-      end if formats_include_html(opts)
-    end
-
   end if should_show(opts, :create)
 
   describe "PUT update" do
@@ -219,12 +209,6 @@ def should_behave_like_resource(opts = {})
         put :update, {:id => mocked_model_id}.merge(parameters)
         assigns[model].should equal(mocked_model)
       end if formats_include_html(opts)
-
-      it "redirects to the #{model}" do
-        clazz.stub!(:find).and_return(mocked_model(:update_attributes => true))
-        put :update, {:id => mocked_model_id}.merge(parameters)
-        response.should redirect_to(model_url)
-      end unless (opts[:without].eql?('update.redirect') or !formats_include_html(opts))
     end
 
     describe "with invalid parameters" do
@@ -248,12 +232,6 @@ def should_behave_like_resource(opts = {})
       clazz.should_receive(:find).with(mocked_model_id).and_return(mocked_model) unless nested?
       mocked_model.should_receive(:destroy)
       delete :destroy, {:id => mocked_model_id}.merge(parameters)
-    end if formats_include_html(opts)
-
-    it "redirects to the #{models} list" do
-      clazz.stub!(:find).and_return(mocked_model(:destroy => true))
-      delete :destroy, {:id => mocked_model_id}.merge(parameters)
-      response.should redirect_to(models_url)
     end if formats_include_html(opts)
   end if should_show(opts, :destroy)
 end

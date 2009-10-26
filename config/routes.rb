@@ -1,4 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :shouties
+
   map.home   '/home',   :controller => 'application',   :action => 'home'
   map.logout '/logout', :controller => 'user_sessions', :action => 'destroy'
   map.login  '/login',  :controller => 'user_sessions', :action => 'new'
