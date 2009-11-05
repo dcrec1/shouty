@@ -11,6 +11,10 @@ class ShoutiesController < InheritedResources::Base
   
   private
   
+  #def collection
+  #  @shouties ||= end_of_association_chain.paginate(params[:page]).all
+  #end
+  
   def assign_user
     params[:shouty].merge! :user => current_user
   end
