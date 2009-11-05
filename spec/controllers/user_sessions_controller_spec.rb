@@ -27,7 +27,7 @@ describe UserSessionsController do
     end
   
     it "deve enviar ele para a última pagina se existir ou a home" do
-      controller.should_receive(:redirect_back_or_default).with(home_path)
+      controller.should_receive(:redirect_back_or_default).with(root_path)
       post :create
     end
     
