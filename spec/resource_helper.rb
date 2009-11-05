@@ -188,7 +188,7 @@ def should_behave_like_resource(opts = {})
 
     describe "with valid parameters" do
       it "assigns a newly created #{model} as @#{model}" do
-        clazz.stub!(:new).with({'these' => 'parameters'}).and_return(mocked_model(:save => true))
+        clazz.stub!(:new).with(hash_including({'these' => 'parameters'})).and_return(mocked_model(:save => true))
         post :create, {model => {:these => 'parameters'}}.merge(parameters)
         assigns[model].should equal(mocked_model)
       end if formats_include_html(opts)
