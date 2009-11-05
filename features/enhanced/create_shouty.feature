@@ -7,3 +7,4 @@ Feature: Create Shouty
     And I press "Create Shouty"
     And I wait for the AJAX call to finish
     Then I should see "hi, my name is what"
+    And I should see "dcrec1"

@@ -2,7 +2,4 @@
   = form.inputs :body
   = form.buttons
   
-.shouties
-  - for shouty in @shouties
-    .shouty
-      .body= shouty.body
+.shouties= render :partial => "shared/shouty", :collection => @shouties
