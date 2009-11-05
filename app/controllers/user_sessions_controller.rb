@@ -1,5 +1,4 @@
 class UserSessionsController < ApplicationController
-  include AuthlogicHelper
   
   def new
     @user_session = UserSession.new
