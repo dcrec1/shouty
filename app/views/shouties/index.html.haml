@@ -3,3 +3,6 @@
   = form.buttons
   
 .shouties
+  - for shouty in @shouties
+    .shouty
+      .body= shouty.body
