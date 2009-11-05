@@ -10,6 +10,7 @@ class ShoutiesController < InheritedResources::Base
   end
   
   private
+  
   def assign_user
     params[:shouty].merge! :user => current_user
   end
