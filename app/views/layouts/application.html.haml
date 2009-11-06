@@ -2,7 +2,9 @@
 !!!
 %html
   %head
-    %title
+    %title= Shouty
     = javascript_include_merged :base
     = stylesheet_link_merged :base
-  %body= yield
+  %body
+    %h1= Shouty
+    = yield

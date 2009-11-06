@@ -5,4 +5,7 @@ javascripts:
   - jquery
   - jquery-ui
 stylesheets: 
-- base: []
+- base:
+  - scaffold
+  - formtastic
+  - formtastic_changes
