@@ -10,10 +10,10 @@ describe ShoutiesController do
     
     should_behave_like_resource :formats => [:html, :xml, :json]
     
-    it "respoding to GET fetch should assign to @shouties the first page of shouties" do
+    it "respoding to GET return the first page of shouties" do
       Shouty.stub!(:paginate).with(:page => 1).and_return(shouties = [Shouty.new, Shouty.new])
+      controller.should_receive(:render).with(:partial => "shared/shouty", :collection => shouties)
       get :fetch
-      assigns[:shouties].should eql(shouties)
     end
   end
 end

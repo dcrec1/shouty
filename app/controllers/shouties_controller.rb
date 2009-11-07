@@ -10,7 +10,7 @@ class ShoutiesController < InheritedResources::Base
   end
   
   def fetch
-    @shouties = Shouty.paginate :page => 1
+    render :partial => "shared/shouty", :collection => Shouty.paginate(:page => 1)
   end
   
   private
