@@ -135,10 +135,19 @@ def should_behave_like_resource(opts = {})
   end
 
   describe "GET index" do
-    it "assigns all #{models} as @#{models}" do
-      clazz.stub!(:find).with(:all).and_return([mocked_model])
-      get :index, parameters
-      assigns[models].should == [mocked_model]
+    if opts[:paginate]
+      it "paginates all #{models} as @#{models}" do
+        page = '3'
+        clazz.stub!(:paginate).with(:page => page).and_return(mock = [mocked_model])
+        get :index, parameters.merge(:page => page)
+        assigns[models].should == mock
+      end
+    else
+      it "assigns all #{models} as @#{models}" do
+        clazz.stub!(:find).with(:all).and_return([mocked_model])
+        get :index, parameters
+        assigns[models].should == [mocked_model]
+      end 
     end if formats_include_html(opts)
 
     it "responds as an rss" do

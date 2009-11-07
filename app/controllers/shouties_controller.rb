@@ -13,6 +13,12 @@ class ShoutiesController < InheritedResources::Base
     render :partial => "shared/shouty", :collection => Shouty.paginate(:page => 1)
   end
   
+  protected
+  
+  def collection
+    @shouties ||= end_of_association_chain.paginate(:page => params[:page])
+  end
+  
   private
   
   def assign_user
