@@ -3,3 +3,4 @@
   = form.buttons
   
 .shouties= render :partial => "shared/shouty", :collection => @shouties
+= periodically_call_remote :url => fetch_shouties_path, :frequency => '60', :update => 'shouties'

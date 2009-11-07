@@ -1,5 +1,5 @@
 ActionController::Routing::Routes.draw do |map|
-  map.resources :shouties
+  map.resources :shouties, :collection => { :fetch => :get }
 
   map.home   '/home',   :controller => 'application',   :action => 'home'
   map.logout '/logout', :controller => 'user_sessions', :action => 'destroy'
@@ -10,7 +10,4 @@ ActionController::Routing::Routes.draw do |map|
   map.resources :users
 
   map.root :controller => :shouties
-
-  map.connect ':controller/:action/:id'
-  map.connect ':controller/:action/:id.:format'
 end

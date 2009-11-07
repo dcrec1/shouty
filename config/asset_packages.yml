@@ -1,9 +1,9 @@
 --- 
 javascripts: 
 - base: 
-  - jrails
   - jquery
   - jquery-ui
+  - jrails
 stylesheets: 
 - base:
   - scaffold

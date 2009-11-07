@@ -9,6 +9,10 @@ class ShoutiesController < InheritedResources::Base
     index!
   end
   
+  def fetch
+    @shouties = Shouty.paginate :page => 1
+  end
+  
   private
   
   def assign_user
