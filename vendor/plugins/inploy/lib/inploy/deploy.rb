@@ -2,7 +2,12 @@ module Inploy
   class Deploy
     include Helper
 
-    attr_accessor :repository, :user, :application, :hosts, :path
+    attr_accessor :repository, :user, :application, :hosts, :path, :ssh_opts, :branch, :environment
+
+    def initialize
+      @branch = 'master'
+      @environment = 'production'
+    end
 
     def template=(template)
       require "inploy/#{template}"
@@ -10,7 +15,7 @@ module Inploy
     end
 
     def remote_setup
-      remote_run "cd #{path} && git clone --depth 1 #{repository} #{application} && cd #{application} && rake inploy:local:setup"
+      remote_run "cd #{path} && git clone --depth 1 #{repository} #{application} && cd #{application} && git checkout -f -b #{branch} origin/#{branch} && git submodule update --init && rake inploy:local:setup"
     end
 
     def local_setup
@@ -24,7 +29,8 @@ module Inploy
     end
 
     def local_update
-      run "git pull origin master"
+      run "git pull origin #{branch}"
+      run "git submodule update"
       after_update_code
     end
 
@@ -37,6 +43,7 @@ module Inploy
       run "rm -R -f public/cache"
       rake_if_included "more:parse"
       rake_if_included "asset:packager:build_all"
+      rake_if_included "hoptoad:deploy TO=#{environment} REPO=#{repository} REVISION=#{`git log | head -1 | cut -d ' ' -f 2`}"
       run "touch tmp/restart.txt"
     end
   end
