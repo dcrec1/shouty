@@ -3,4 +3,9 @@
 
 en:
   ago: "ago"
+  create: "Create"
+  create_your_account: "create your account"
   do_login: "Login"
+  login: "login"
+  logout: "logout"
+  or: "or"

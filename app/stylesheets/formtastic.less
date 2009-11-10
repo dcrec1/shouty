@@ -36,11 +36,6 @@ form.formtastic fieldset:after { content: "."; display: block; height: 0; clear:
 html[xmlns] form.formtastic fieldset { display: block; }
 * html form.formtastic fieldset { height: 1%; }
 
-
-/* INPUT LIs
---------------------------------------------------------------------------------------------------*/
-form.formtastic fieldset ol li { margin-bottom:1.5em; }
-
 /* clearfixing the li's */
 form.formtastic fieldset ol li { display: inline-block; }
 form.formtastic fieldset ol li:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
@@ -50,11 +45,11 @@ html[xmlns] form.formtastic fieldset ol li { display: block; }
 form.formtastic fieldset ol li.required { }
 form.formtastic fieldset ol li.optional { }
 form.formtastic fieldset ol li.error { }
-  
+
 
 /* LABELS
 --------------------------------------------------------------------------------------------------*/
-form.formtastic fieldset ol li label { display:block; width:25%; float:left; padding-top:.2em; }
+form.formtastic fieldset ol li label { display:block; width:50%; float:left; padding-top:.2em; }
 form.formtastic fieldset ol li li label { line-height:100%; padding-top:0; }
 form.formtastic fieldset ol li li label input { line-height:100%; vertical-align:middle; margin-top:-0.1em;}
 
@@ -132,6 +127,7 @@ form.formtastic fieldset ol li.date fieldset ol li label,
 form.formtastic fieldset ol li.time fieldset ol li label,
 form.formtastic fieldset ol li.datetime fieldset ol li label { display:none; }
 
-form.formtastic fieldset ol li.date fieldset ol li label input, 
-form.formtastic fieldset ol li.time fieldset ol li label input, 
+form.formtastic fieldset ol li.date fieldset ol li label input,
+form.formtastic fieldset ol li.time fieldset ol li label input,
 form.formtastic fieldset ol li.datetime fieldset ol li label input { display:inline; margin:0; padding:0;  }
+

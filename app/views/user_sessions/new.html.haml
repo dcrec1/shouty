@@ -1,4 +1,5 @@
 - semantic_form_for @user_session do |form|
   = form.inputs :login, :password
   - form.buttons do
-    = form.commit_button I18n.t(:do_login)
+    = form.commit_button t(:do_login)
+    = "#{t(:or)} #{link_to t(:create_your_account), signup_path}"
