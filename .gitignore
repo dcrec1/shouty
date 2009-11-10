@@ -10,3 +10,4 @@ public/stylesheets
 public/javascripts/*_packaged.js
 doc/specs.html
 doc/features.html
+config/deploy.rb
