@@ -3,6 +3,6 @@
     = form.input :body, :label => false
   - form.buttons do
     = form.commit_button :label => "shoutt!"
-  
+
 .shouties= render :partial => "shared/shouty", :collection => @shouties
-= periodically_call_remote :url => fetch_shouties_path, :frequency => '100000', :update => '.shouties', :method => :get
+= periodically_call_remote :url => fetch_shouties_path, :frequency => '30000', :update => '.shouties', :method => :get
