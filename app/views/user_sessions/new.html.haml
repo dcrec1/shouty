@@ -2,4 +2,5 @@
   = form.inputs :login, :password
   - form.buttons do
     = form.commit_button t(:do_login)
-    = "#{t(:or)} #{link_to t(:create_your_account), signup_path}"
+    %li= "&nbsp;#{t(:or)} #{link_to t(:create_your_account), signup_path}"
+= ' <div><object width="415" height="261"><param name="movie" value="http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?ver=2.2.46" /><param name="allowFullScreen" value="true" /><param name="AllowScriptAccess" VALUE="always" /><param name="bgcolor" value="#000000" /><param name="flashVars" value="id=2512933&vid=449493&lang=en-gb&intl=uk&thumbUrl=http%3A//l.yimg.com/a/i/us/sch/cn/v/v1/w294/449493_400_300.jpeg&embed=1" /><embed src="http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?ver=2.2.46" type="application/x-shockwave-flash" width="415" height="261" allowFullScreen="true" AllowScriptAccess="always" bgcolor="#000000" flashVars="id=2512933&vid=449493&lang=en-gb&intl=uk&thumbUrl=http%3A//l.yimg.com/a/i/us/sch/cn/v/v1/w294/449493_400_300.jpeg&embed=1" ></embed></object></div>'

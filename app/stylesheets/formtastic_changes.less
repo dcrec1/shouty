@@ -17,18 +17,21 @@ form.formtastic fieldset {
 form.formtastic fieldset ol li.string input,
 form.formtastic fieldset ol li.password input,
 form.formtastic fieldset ol li.numeric input {
-	width: 200px;
-	font-size:20px;
-	margin:0 0 10px 0;
+	width: 413px;
+	font-size:30px;
 }
 form.formtastic fieldset ol li input {
 	font-size:16px;
 	margin:0 0 10px 0;
 }
+input[type="text"], input[type="password"] {
+	border: 1px solid #999;
+}
 
 form.formtastic fieldset ol li.text textarea {
 	height: 50px;
 	width: 100%;
+	border: 1px solid #999;
 }
 
 form.formtastic fieldset ol li label {
@@ -54,10 +57,14 @@ h1 {
 	    text-decoration:none;
 	    background:none;
 	}
+	.logout{
+	    float:right;
+	    font-size:10px;
+	}
 }
 
 #shouty_submit {
-	width: 78px;
+	width: 85px;
 }
 
 .content {
@@ -74,7 +81,7 @@ h1 {
 form#new_shouty {
 	height: 55px;
 	.inputs {
-		width: 300px;
+		width: 320px;
 		padding-right: 10px;
 		float:left;
 	}
@@ -84,14 +91,10 @@ form#new_shouty {
 	.buttons{
 	    width:85px;
 	    input{
-	        height:40px;
+	        height:52px;
 	        margin:0;
 	    }
 	}
-}
-
-div.shouties, form#new_shouty {
-	padding: 10px;
 }
 
 div.shouties {
@@ -106,7 +109,11 @@ div.shouties {
 	}
 	.user, .date {
 		display: inline;
-		font-size: 11px;
+		font-size: 10px;
+		color:#666;
+	}
+	.date{
+	    float:right;
 	}
 }
 

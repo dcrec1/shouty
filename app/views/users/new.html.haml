@@ -2,4 +2,4 @@
   = form.inputs :login, :email, :password, :password_confirmation
   - form.buttons do
     = form.commit_button t(:create)
-    = "#{t(:or)} #{link_to t(:login), root_path}"
+    = '&nbsp;' + t(:or) + ' ' + link_to(t(:login), root_path)

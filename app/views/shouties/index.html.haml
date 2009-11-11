@@ -3,7 +3,6 @@
     = form.input :body, :label => false
   - form.buttons do
     = form.commit_button :label => "shoutt!"
-    %li= link_to t(:logout), logout_path
 
 .shouties= render :partial => "shared/shouty", :collection => @shouties
 = periodically_call_remote :url => fetch_shouties_path, :frequency => '30', :update => '.shouties', :method => :get
