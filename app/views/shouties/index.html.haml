@@ -2,7 +2,7 @@
   - form.inputs do
     = form.input :body, :label => false
   - form.buttons do
-    = form.commit_button :label => "shouty!"
+    = form.commit_button :label => "shoutt!"
 
 .shouties= render :partial => "shared/shouty", :collection => @shouties
 = periodically_call_remote :url => fetch_shouties_path, :frequency => '30', :update => '.shouties', :method => :get
