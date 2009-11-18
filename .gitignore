@@ -12,3 +12,4 @@ doc/specs.html
 doc/features.html
 config/deploy.rb
 config/initializers/hoptoad.rb
+config/newrelic.yml

@@ -1,0 +1,2395 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="pt">
+<!-- machid: WkFSZzctYUFHdmh0WkhldkpuNUxFWHFTTWNWc2NtLVNoYkpLWmJGMmwyWUhGNFItMHdGZXlB -->
+<head>
+	
+		<title>
+		YouTube
+			- Broadcast Yourself.
+	</title>
+
+				<link id="www-core-css" rel="stylesheet" href="http://s.ytimg.com/yt/cssbin/www-core-vfl132161.css">
+
+
+	
+
+
+
+
+	
+
+			<link rel="alternate" type="application/rss+xml" title="YouTube - Blog" href="/rss/global/our_blog.rss">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Mais adotados como Favoritos hoje" href="http://gdata.youtube.com/feeds/base/standardfeeds/top_favorites?client=ytapi-youtube-index&time=today&v=2">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Melhor avaliados hoje" href="http://gdata.youtube.com/feeds/base/standardfeeds/top_rated?client=ytapi-youtube-index&time=today&v=2">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Mais assistidos hoje" href="http://gdata.youtube.com/feeds/base/standardfeeds/most_viewed?client=ytapi-youtube-index&time=today&v=2">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Mais comentados hoje" href="http://gdata.youtube.com/feeds/base/standardfeeds/most_discussed?client=ytapi-youtube-index&time=today&v=2">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Adicionado recentemente" href="http://gdata.youtube.com/feeds/base/standardfeeds/most_recent?client=ytapi-youtube-index&v=2">
+	<link rel="alternate" type="application/rss+xml" title="YouTube - Destaques recentes" href="http://gdata.youtube.com/feeds/base/standardfeeds/recently_featured?client=ytapi-youtube-index&v=2">
+
+
+	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch?locale=pt_BR" title="Pesquisa de vídeos do YouTube">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl122048.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl122048.ico" type="image/x-icon">
+		<link rel="canonical" href="/?gl=BR&amp;hl=pt">
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/index?desktop_uri=%2Findex%3Fytsession%3DAc6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;gl=BR">
+		<meta name="robots" content="noindex">
+	
+		<meta name="description" content="Compartilhe seus vídeos com seus amigos, com sua família e com o mundo">
+
+		<meta name="keywords" content="vídeo, compartilhamento, celular com câmera, videofone, gratuito, upload">
+
+
+					<script id="www-core-js" src="http://s.ytimg.com/yt/jsbin/www-core-vfl132157.js"></script>
+
+
+	<script>
+		
+		yt.setConfig({
+			'XSRF_TOKEN': '7p4E6djQna0pmky_a8ZlujjoQt58MTI1ODY1NzY2Mg==',
+			'XSRF_FIELD_NAME': 'session_token'
+		});
+		yt.pubsub.subscribe('init', yt.www.xsrf.populateSessionToken);
+
+
+		yt.setConfig('XSRF_QL_PAIR', 'session_token=qik50qYzfgUygVvrMfk-ZbYgTdN8MA==');
+
+
+
+		yt.setConfig('LOGGED_IN', false);
+	</script>
+
+	<script>
+	</script>
+		
+
+
+
+<script type="text/javascript">
+	var php_support;
+	var homepageJavascriptSource = "http://s.ytimg.com/yt/js/iyt_all-vfl132161.js";
+
+	var homepageCallback = function() {
+
+
+		php_support = new YT_php_support('7p4E6djQna0pmky_a8ZlujjoQt58MTI1ODY1NzY2Mg==', false, true);
+
+			php_support.add_module("FEA");
+			php_support.add_module("REC");
+			php_support.add_module("POP");
+			php_support.add_module("PRO");
+			php_support.add_module("TOP");
+
+		php_support.init();
+
+	};
+
+
+
+</script>
+
+
+
+
+
+
+</head>
+<body class="date-20091118 pt_BR not-english">
+	<!-- begin masthead section -->
+	<!--[if lt IE 8]><div id="ie"><![endif]-->
+	<form name="logoutForm" method="post" action="/">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+	<div id="page" class="">
+			</div> 
+	<div id="masthead-container">
+		<div id="masthead" class="">
+					<a href="/" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/YouTubeLogo');">
+			<button id="logo" class="master-sprite" title="" onclick="window.top.location.href='/'; return false;"></button>
+		</a>
+	<div id="masthead-search">
+			<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm">
+		<input id="masthead-search-term" class="search-term" name="search_query" type="text" tabindex="1" onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128" onkeydown="yt.www.masthead.searchBarFocusTest(event);" onfocus="_addclass(this, 'search-term-focus')" onblur="_removeclass(this, 'search-term-focus')">
+			<input id="search-type-masthead" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="if (_gel('masthead-search-term').value != '') { document['searchForm'].submit(); }; return false;"><span>Pesquisar</span></a>
+
+	</form>
+
+	</div>
+		<div id="masthead-utility">
+				<span class="utility-item">
+					<a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3DNone&amp;ltmpl=sso&amp;hl=pt_BR&amp;service=youtube" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/UtilLinks/CreateAccount');"><strong>Criar conta</strong></a>
+					<span class="utility-joiner">ou</span>
+					<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Dpt_BR%26next%3D%252Findex%253Fytsession%253DAc6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;hl=pt_BR&amp;ltmpl=sso" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/UtilLinks/SignIn');">Fazer login</a>
+				</span>
+		</div>
+		<div id="masthead-nav-user">
+			<a href="/watch_queue?all" id="quicklist-nav" style="display: none;" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/UserNav/QuickList');">Lista rápida (<span id="quicklist-nav-count">0</span>)</a>
+			<a href="/my_subscriptions?masthead=1" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/UserNav/Subscriptions');">Inscrições</a>
+			<a href="/my_history" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/UserNav/History');">Histórico</a>
+			<a class="yt-button yt-button-urgent yt-button-short" id="" style="" href="/my_videos_upload" onclick="yt.analytics.urchinTracker('/Events/Header_4/UserNav/Upload');"><span>Enviar</span></a>
+		</div>
+	<div id="masthead-nav-main">
+		<a href="/" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/MainNav/Home');">Página inicial</a>
+		<a href="/videos" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/MainNav/Videos');">Vídeos</a>
+		<a href="/channels" onmousedown="yt.analytics.urchinTracker('/Events/Header_4/MainNav/Channels');">Canais</a>
+	</div>
+	<div id="masthead-end"></div>
+
+		</div>
+	</div>
+	<!-- end masthead section -->
+	<div id="baseDiv" class="date-20091118 video-info ">
+		<!-- begin top section -->
+					<div id="default-language-box" style="margin: 10px 0 20px 0; text-align: left; padding: 8px 10px; background-color: #e6efff; border: 1px solid #aeaed5; font-size: 13px;">
+		<div id="default-language-top">
+			<div class="box-close-link"><a href="/index?ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;opt_out_ackd=1hl=pt&amp;persist_hl=1&amp;gl=BR&amp;persist_gl=1" class="hLink">Fechar</a><img alt="Fechar" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="_hidediv('default-language-box');"></div>
+			<div id="default-language-translated">
+					<p class="errorParagraph"><strong>Bem-vindo ao YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Idioma sugerido (definimos sua preferência para este):</strong>  Português (Brasil)</p>
+					
+					<p class="errorParagraph"><strong>Filtro de local sugerido (definimos a sua preferência para este):</strong>  Brasil</p>
+					
+					<p class="errorParagraph">O filtro de local mostra os vídeos populares do país ou região selecionada em listas como <a href="/videos?s=mp">Mais vistos</a> e em resultados de pesquisa.Se você quiser alterar uma dessas preferências, use os links no rodapé, na parte inferior da página.</p>
+					
+					<p class="errorParagraph">Clique em "OK" para aceitar estas configurações ou clique em "Cancelar" para definir a sua preferência de idioma para "Português (Brasil)" e seu filtro de local para "Global".</p>
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<a class="yt-button yt-button-urgent" id="" style="" href="/index?ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;opt_out_ackd=1hl=pt&amp;persist_hl=1&amp;gl=BR&amp;persist_gl=1" onclick=""><span>OK</span></a>
+				<a class="yt-button" id="" style="" href="/index?ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+		</div>
+	</div>
+
+			</div>
+			<div id="default-language-english" style="display: none;">
+				<br>
+					<p class="errorParagraph"><strong>Welcome to YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Suggested Language (we have set your preference to this):</strong> Portuguese</p>
+					
+					<p class="errorParagraph"><strong>Suggested Location Filter (we have set your preference to this):</strong> Brazil</p>
+					
+					<p class="errorParagraph">The location filter shows you popular videos from the selected country or region on lists like <a href="/videos?s=mp">Most Viewed</a> and in search results. If you would like to change either of these preferences, please use the links in the footer at the bottom of the page.</p>
+					
+					<p class="errorParagraph">Click &quot;OK&quot; to accept these settings, or click &quot;Cancel&quot; to set your language preference to &quot;English (US)&quot; and your country filter to &quot;Worldwide&quot;.</p>
+
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<a class="yt-button yt-button-urgent" id="" style="" href="/index?ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;opt_out_ackd=1hl=pt&amp;persist_hl=1&amp;gl=BR&amp;persist_gl=1" onclick=""><span>OK</span></a>
+				<a class="yt-button" id="" style="" href="/index?ytsession=Ac6gi0ELMLA-wkk4HgTysFMa1j_Z7KGEl9m48V3xngfGP-omedvsew7fLZn3yW0KLxrT3Pbk4kZTxkN4ykEanPRFmki1v-nQk26pHZnNRI2nrsnfabJLUUxnULM_mliu8WxDm1EOcnQkq_9JL4mTncVcRL4yqTFhYVrGQf51vPHtEEJNS7JUl7IR25sMN1crMRGF_QNMKdBGgcMMZSfGlpIJbLlTO5soKeoouhI9H_xEHG24nE3GBdhYtOHcstc7w3j3gKm38z93ff_B9Q1DHqs7CT6EiQ7n5IDVtDBQnu04uNJv-YSTJQ&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+		</div>
+	</div>
+
+			</div>
+				<div id="default-language-english-show-link">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-show-link', 'default-language-english-hide-link', 'default-language-english'); return false;">Show message in English</a>
+				</div>
+				<div id="default-language-english-hide-link" style="display: none;">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-hide-link', 'default-language-english', 'default-language-english-show-link'); return false;">Hide message in English</a>
+				</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	
+
+	
+		<div id="error-box" class="errorBox">
+		O URL tinha um ID de vídeo com formato incorreto.
+	</div>
+
+
+	
+
+
+		
+
+
+<div id="homepage-main-content" class="homepage-non-interactive">
+
+
+
+
+
+
+	<div id="dragdrop" style="overflow: hidden; clear: both;">
+
+
+
+			
+		
+
+			
+
+
+					<div id="feedmodule-POP" class="feedmodule-anchor">
+				<div class="feedmodule-modheader" onmousedown="yt.www.home.bootstrap()" id="POP-titlebar">
+
+			<div id="feed_popular">
+		<div class="fm2-title-border-box-gray yt-rounded">
+			<div class="fm2-title">
+				<img class="img_feed_popular master-sprite fm2-icon" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+				<span class="fm2-titleText" id="feed_popular-titleText">Vídeos sendo assistidos agora</span>
+			</div>
+
+				<div class="feedmodule-preamble">
+					<a href="/videos?s=pop" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/View_Popular/Logged_Out');">(exibir todas)</a>
+				</div>
+
+
+					<div class="feedmodule-updown">
+
+			<span id="medit-POP" class="iyt-edit-link iyt-edit-link-gray" onclick="yt.www.home.queueHomepageFunction(function() { php_support.open_options_pane('POP-options');})">editar</span>
+
+<span id="mup-POP" class="up-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('POP', 'up');})"><img class="master-sprite img-php-up-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span><span id="mdown-POP" class="down-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('POP', 'down');})"><img class="master-sprite img-php-down-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span><span id="mclose-POP" onclick="yt.www.home.queueHomepageFunction(function() { php_support.remove_module('POP');})"><img class="master-sprite img-php-close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span>
+	</div>
+
+		</div>
+	</div>
+
+
+	</div>
+
+	<div class="clear feedmodule-border-gray yt-rounded" id="feed_popular-content">
+
+			<div id="POP-options" class="opt-pane" style="display: none;">
+		<div class="opt-box-top">
+			<img class="homepage-ajax-sprite img-php-opt-box-caret" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+		</div>
+		<div class="opt-banner">
+			<div class="opt-links">
+				<div class="opt-edit">Edição: Vídeos sendo assistidos agora</div>
+				<div class="opt-close opt-close-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('POP-options');})"><img class="img-php-close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></div>
+				<div class="opt-close opt-close-text" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('POP-options');})">fechar</div>
+				<div id="POP-loading-msg" class="opt-loading-msg" style="display: none;">
+Salvando...
+				</div>
+				<div id="POP-loading-icn" class="opt-loading-icn" style="display: none;">
+					<img width="16" id="POP-loading-icn-image" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" image="http://s.ytimg.com/yt/img/icn_loading_animated-vfl24663.gif">
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="opt-main">
+			<div class="opt-simple-msg">
+				Deseja personalizar esta página inicial?
+
+				<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252F&hl=en_US&ltmpl=sso" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignIn/EditModuleBox');">Faça login</a> ou <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3DNone&ltmpl=sso&hl=pt_BR&service=youtube" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignUp/EditModuleBox');">inscreva-se</a> agora!
+
+			</div>
+		</div>
+	</div>
+
+
+		<div id="POP-data" class="feedmodule-data">
+
+
+
+						<div class="feedmodule-body bigthumb-view">
+
+
+
+
+
+			<div class="feeditem-bigthumb super-large-video yt-uix-hovercard ">
+				<div style="font-size: 12px;" class="floatL">
+					<div class="feedmodule-thumbnail">
+						<div class="v220WideEntry"><div class="v220WrapperOuter"><div class="v220WrapperInner"><a id="video-url-oQ6GHz8bsRw" class="video-thumb-link" href="/watch?v=oQ6GHz8bsRw&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow"><img title="Stephenie Meye na Oprah Parte 1"    src="http://i4.ytimg.com/vi/oQ6GHz8bsRw/hqdefault.jpg" class="vimg220 yt-uix-hovercard-target" qlicon="oQ6GHz8bsRw" alt="Stephenie Meye na Oprah Parte 1"></a><div id="quicklist-icon-oQ6GHz8bsRw" class="addtoQL90"><a id="add-to-quicklist-oQ6GHz8bsRw" href="#"  ql="oQ6GHz8bsRw" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/oQ6GHz8bsRw/default.jpg', 'Stephenie Meye na Oprah Parte 1');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-oQ6GHz8bsRw" href="/watch?v=oQ6GHz8bsRw&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow">5:27</a></div></div></div></div>
+					</div>
+				</div>
+				
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=oQ6GHz8bsRw&feature=popular" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" title="Stephenie Meye na Oprah Parte 1" >Stephenie Meye na Oprah Parte 1</a>
+		</div>
+		<div>
+6093 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/Foforksyeswecreu">Foforksyeswecreu</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Stephenie Meye na Oprah Parte 1</strong><br>
+		<div><span class="hovercard-duration">5:27</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Entertainment</p>
+		<p class="hovercard-username">Foforksyeswecreu</p>
+		<p class="hovercard-description" >Primeira parte da entrevista de Stephenie Meyer no programa da Oprah em 13/11/09. Legendas: Paulie - www.foforks.com.br - Twitter: @foforks</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">6093 exibições</span></div>
+	</div>
+
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+
+
+
+
+			<div class="feeditem-bigthumb normal-size-video yt-uix-hovercard ">
+				<div style="font-size: 12px;" class="floatL">
+					<div class="feedmodule-thumbnail">
+						<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-459qTs8prj8" class="video-thumb-link" href="/watch?v=459qTs8prj8&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow"><img title="CQC 16/11/2009 - Top Five"    src="http://i1.ytimg.com/vi/459qTs8prj8/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="459qTs8prj8" alt="CQC 16/11/2009 - Top Five"></a><div id="quicklist-icon-459qTs8prj8" class="addtoQL90"><a id="add-to-quicklist-459qTs8prj8" href="#"  ql="459qTs8prj8" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/459qTs8prj8/default.jpg', 'CQC 16/11/2009 - Top Five');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-459qTs8prj8" href="/watch?v=459qTs8prj8&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow">9:12</a></div></div></div></div>
+					</div>
+				</div>
+				
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=459qTs8prj8&feature=popular" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" title="CQC 16/11/2009 - Top Five" >CQC 16/11/2009 - Top Five</a>
+		</div>
+		<div>
+13226 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/gilslopes3">gilslopes3</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >CQC 16/11/2009 - Top Five</strong><br>
+		<div><span class="hovercard-duration">9:12</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Comedy</p>
+		<p class="hovercard-username">gilslopes3</p>
+		<p class="hovercard-description" >CQC 16/11/2009 Gravado e Postado por Gilslopes3. Se Inscrevam no Canal.</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">13226 exibições</span></div>
+	</div>
+
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+
+
+
+
+			<div class="feeditem-bigthumb normal-size-video yt-uix-hovercard ">
+				<div style="font-size: 12px;" class="floatL">
+					<div class="feedmodule-thumbnail">
+						<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-na85Ee_3iaY" class="video-thumb-link" href="/watch?v=na85Ee_3iaY&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow"><img title="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD"    src="http://i3.ytimg.com/vi/na85Ee_3iaY/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="na85Ee_3iaY" alt="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD"></a><div id="quicklist-icon-na85Ee_3iaY" class="addtoQL90"><a id="add-to-quicklist-na85Ee_3iaY" href="#"  ql="na85Ee_3iaY" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/na85Ee_3iaY/default.jpg', 'Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-na85Ee_3iaY" href="/watch?v=na85Ee_3iaY&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow">3:09</a></div></div></div></div>
+					</div>
+				</div>
+				
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=na85Ee_3iaY&feature=popular" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" title="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD" >Shakira feat. Lil Wayne Give It Up To Me Official Music V...</a>
+		</div>
+		<div>
+25280 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/Releases3">Releases3</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD</strong><br>
+		<div><span class="hovercard-duration">3:09</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Music</p>
+		<p class="hovercard-username">Releases3</p>
+		<p class="hovercard-description" >Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me.</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">25280 exibições</span></div>
+	</div>
+
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+
+
+
+
+			<div class="feeditem-bigthumb normal-size-video yt-uix-hovercard ">
+				<div style="font-size: 12px;" class="floatL">
+					<div class="feedmodule-thumbnail">
+						<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-HjIzuuExXIU" class="video-thumb-link" href="/watch?v=HjIzuuExXIU&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow"><img title="A queda do Imperador"    src="http://i1.ytimg.com/vi/HjIzuuExXIU/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="HjIzuuExXIU" alt="A queda do Imperador"></a><div id="quicklist-icon-HjIzuuExXIU" class="addtoQL90"><a id="add-to-quicklist-HjIzuuExXIU" href="#"  ql="HjIzuuExXIU" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/HjIzuuExXIU/default.jpg', 'A queda do Imperador');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-HjIzuuExXIU" href="/watch?v=HjIzuuExXIU&feature=popular"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" rel="nofollow">4:07</a></div></div></div></div>
+					</div>
+				</div>
+				
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=HjIzuuExXIU&feature=popular" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/POP/Logged_Out');" title="A queda do Imperador" >A queda do Imperador</a>
+		</div>
+		<div>
+5816 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/renandamasco">renandamasco</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.0" title="4.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >A queda do Imperador</strong><br>
+		<div><span class="hovercard-duration">4:07</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Sports</p>
+		<p class="hovercard-username">renandamasco</p>
+		<p class="hovercard-description" >Este vídeo tem tudo a ver com a realidade de um time brasileiro de futebol. Fizemos para mostrar que ninguém aguenta mais o continuísmo nos clubes de futebol, chega dos mesmos!!!!!! Ou a torcida se mobiliza ou o time que amamos vai acabar igual o Corinthians, o Palmeiras, o Vasco, o Botafogo eo Atlético MG: na segundona!!!!!</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.0" title="4.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">5816 exibições</span></div>
+	</div>
+
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+
+		<div class="spacer">&nbsp;</div>
+	</div>
+
+	
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+
+		</div>
+
+		
+
+					<div id="feedmodule-PRO" class="feedmodule-anchor">
+				<div class="feedmodule-modheader" onmousedown="yt.www.home.bootstrap()" id="PRO-titlebar">
+
+			<div id="feed_promoted">
+		<div class="fm2-title-border-box-blue yt-rounded">
+			<div class="fm2-title">
+				<img class="img_feed_promoted master-sprite fm2-icon" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+				<span class="fm2-titleText" id="feed_promoted-titleText">Vídeos em destaque</span>
+			</div>
+
+
+
+					<div class="feedmodule-updown">
+
+
+<span id="mup-PRO" class="up-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('PRO', 'up');})"><img class="master-sprite img-php-up-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span><span id="mdown-PRO" class="down-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('PRO', 'down');})"><img class="master-sprite img-php-down-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span>
+	</div>
+
+		</div>
+	</div>
+
+
+	</div>
+
+	<div class="clear feedmodule-border-blue yt-rounded" id="feed_promoted-content">
+
+			<div id="PRO-options" class="opt-pane" style="display: none;">
+		<div class="opt-box-top">
+			<img class="homepage-ajax-sprite img-php-opt-box-caret" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+		</div>
+		<div class="opt-banner">
+			<div class="opt-links">
+				<div class="opt-edit">Edição: Vídeos em destaque</div>
+				<div class="opt-close opt-close-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('PRO-options');})"><img class="img-php-close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></div>
+				<div class="opt-close opt-close-text" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('PRO-options');})">fechar</div>
+				<div id="PRO-loading-msg" class="opt-loading-msg" style="display: none;">
+Salvando...
+				</div>
+				<div id="PRO-loading-icn" class="opt-loading-icn" style="display: none;">
+					<img width="16" id="PRO-loading-icn-image" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" image="http://s.ytimg.com/yt/img/icn_loading_animated-vfl24663.gif">
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="opt-main">
+			<div class="opt-simple-msg">
+				Deseja personalizar esta página inicial?
+
+				<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252F&hl=en_US&ltmpl=sso" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignIn/EditModuleBox');">Faça login</a> ou <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3DNone&ltmpl=sso&hl=pt_BR&service=youtube" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignUp/EditModuleBox');">inscreva-se</a> agora!
+
+			</div>
+		</div>
+	</div>
+
+
+		<div id="PRO-data" class="feedmodule-data">
+
+
+
+						<div class="feedmodule-body grid-view">
+		<div class="clearL">
+	
+				
+
+<div class="video-cell" style="width:24.5%">
+
+
+
+
+	
+
+
+	<div class="video-entry yt-uix-hovercard">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-4Des5HvloIw" class="video-thumb-link" href="/watch?v=4Des5HvloIw&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow"><img title="O Orkut vai mudar: invadindo o show do Skank em João Pessoa"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/4Des5HvloIw/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="4Des5HvloIw" alt="O Orkut vai mudar: invadindo o show do Skank em João Pessoa"></a><div id="quicklist-icon-4Des5HvloIw" class="addtoQL90"><a id="add-to-quicklist-4Des5HvloIw" href="#"  ql="4Des5HvloIw" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/4Des5HvloIw/default.jpg', 'O Orkut vai mudar: invadindo o show do Skank em João Pessoa');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-4Des5HvloIw" href="/watch?v=4Des5HvloIw&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow">4:49</a></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-4Des5HvloIw">
+
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<a id="video-short-title-4Des5HvloIw" href="/watch?v=4Des5HvloIw&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="O Orkut vai mudar: invadindo o show do Skank em João Pessoa" rel="nofollow">O Orkut vai mudar: invadindo o s...</a>
+				</div>
+				<div class="video-long-title">
+						<a id="video-long-title-4Des5HvloIw" href="/watch?v=4Des5HvloIw&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="O Orkut vai mudar: invadindo o show do Skank em João Pessoa" rel="nofollow">O Orkut vai mudar: invadindo o show do Skank em João Pessoa</a>
+				</div>
+			</div>
+
+				<div id="video-description-4Des5HvloIw"  class="video-description">
+					Descobri que o Orkut vai mudar e para entrar só com convite. Quero ser o primeiro ...
+				</div>
+			
+
+      
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-4Des5HvloIw" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-2.5" title="2.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-4Des5HvloIw" class="video-date-added">1 mês atrás</span>
+
+					<span id="video-num-views-4Des5HvloIw" class="video-view-count">393719 exibições</span>
+
+
+					<span id="video-average-rating-4Des5HvloIw" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-2.5" title="2.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+					<span class="video-username"><a id="video-from-username-4Des5HvloIw" class="hLink"  href="/user/danilomiedi">danilomiedi</a></span>
+
+			</div>	
+
+		</div>	
+
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >O Orkut vai mudar: invadindo o show do Skank em João Pessoa</strong><br>
+		<div><span class="hovercard-duration">4:49</span> &nbsp; <span class="hovercard-upload-date">16 de outubro de 2009</span></div>
+		<p class="hovercard-category">Music</p>
+		<p class="hovercard-username">danilomiedi</p>
+		<p class="hovercard-description" >Descobri que o Orkut vai mudar e para entrar só com convite. Quero ser o primeiro ...</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-2.5" title="2.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">393719 exibições</span></div>
+	</div>
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+				
+
+<div class="video-cell" style="width:24.5%">
+
+
+
+
+	
+
+
+	<div class="video-entry yt-uix-hovercard">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-nM8lM28shnI" class="video-thumb-link" href="/watch?v=nM8lM28shnI&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow"><img title="You Pop You Rock: Escolha o melhor clipe!"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/nM8lM28shnI/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="nM8lM28shnI" alt="You Pop You Rock: Escolha o melhor clipe!"></a><div id="quicklist-icon-nM8lM28shnI" class="addtoQL90"><a id="add-to-quicklist-nM8lM28shnI" href="#"  ql="nM8lM28shnI" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/nM8lM28shnI/default.jpg', 'You Pop You Rock: Escolha o melhor clipe!');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-nM8lM28shnI" href="/watch?v=nM8lM28shnI&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow">1:15</a></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-nM8lM28shnI">
+
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<a id="video-short-title-nM8lM28shnI" href="/watch?v=nM8lM28shnI&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="You Pop You Rock: Escolha o melhor clipe!" rel="nofollow">You Pop You Rock: Escolha o melh...</a>
+				</div>
+				<div class="video-long-title">
+						<a id="video-long-title-nM8lM28shnI" href="/watch?v=nM8lM28shnI&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="You Pop You Rock: Escolha o melhor clipe!" rel="nofollow">You Pop You Rock: Escolha o melhor clipe!</a>
+							<a href="/watch?v=nM8lM28shnI&feature=fvhl&hd=1"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="master-sprite hd-video-logo " /></a>
+
+				</div>
+			</div>
+
+				<div id="video-description-nM8lM28shnI"  class="video-description">
+					Agora é a hora de escolher o melhor de todos!
+ 
+Envie um TIM Torpedo com a palav...
+				</div>
+			
+
+      
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-nM8lM28shnI" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-nM8lM28shnI" class="video-date-added">1 mês atrás</span>
+
+					<span id="video-num-views-nM8lM28shnI" class="video-view-count">47965 exibições</span>
+
+
+					<span id="video-average-rating-nM8lM28shnI" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+					<span class="video-username"><a id="video-from-username-nM8lM28shnI" class="hLink"  href="/user/YOUPOPYOUROCK">YOUPOPYOUROCK</a></span>
+
+			</div>	
+
+		</div>	
+
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >You Pop You Rock: Escolha o melhor clipe!</strong><br>
+		<div><span class="hovercard-duration">1:15</span> &nbsp; <span class="hovercard-upload-date">19 de outubro de 2009</span></div>
+		<p class="hovercard-category">Entertainment</p>
+		<p class="hovercard-username">YOUPOPYOUROCK</p>
+		<p class="hovercard-description" >Agora é a hora de escolher o melhor de todos!
+ 
+Envie um TIM Torpedo com a palav...</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">47965 exibições</span></div>
+	</div>
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+				
+
+<div class="video-cell" style="width:24.5%">
+
+
+
+
+	
+
+
+	<div class="video-entry yt-uix-hovercard">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-bmZDTPYhbrQ" class="video-thumb-link" href="/watch?v=bmZDTPYhbrQ&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow"><img title="Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/bmZDTPYhbrQ/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="bmZDTPYhbrQ" alt="Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)"></a><div id="quicklist-icon-bmZDTPYhbrQ" class="addtoQL90"><a id="add-to-quicklist-bmZDTPYhbrQ" href="#"  ql="bmZDTPYhbrQ" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/bmZDTPYhbrQ/default.jpg', 'Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-bmZDTPYhbrQ" href="/watch?v=bmZDTPYhbrQ&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow">4:13</a></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-bmZDTPYhbrQ">
+
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<a id="video-short-title-bmZDTPYhbrQ" href="/watch?v=bmZDTPYhbrQ&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)" rel="nofollow">Sorriso Maroto e Ivete Sangalo -...</a>
+				</div>
+				<div class="video-long-title">
+						<a id="video-long-title-bmZDTPYhbrQ" href="/watch?v=bmZDTPYhbrQ&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)" rel="nofollow">Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)</a>
+				</div>
+			</div>
+
+				<div id="video-description-bmZDTPYhbrQ"  class="video-description">
+					Videoclipe oficial do dueto E Agora Nós? com Sorriso Maroto e Ivete Sangalo
+				</div>
+			
+
+      
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-bmZDTPYhbrQ" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-bmZDTPYhbrQ" class="video-date-added">1 mês atrás</span>
+
+					<span id="video-num-views-bmZDTPYhbrQ" class="video-view-count">515615 exibições</span>
+
+
+					<span id="video-average-rating-bmZDTPYhbrQ" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+					<span class="video-username"><a id="video-from-username-bmZDTPYhbrQ" class="hLink"  href="/user/Deckdisc">Deckdisc</a></span>
+
+			</div>	
+
+		</div>	
+
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Sorriso Maroto e Ivete Sangalo - E Agora Nós? (OFICIAL)</strong><br>
+		<div><span class="hovercard-duration">4:13</span> &nbsp; <span class="hovercard-upload-date"> 5 de outubro de 2009</span></div>
+		<p class="hovercard-category">Entertainment</p>
+		<p class="hovercard-username">Deckdisc</p>
+		<p class="hovercard-description" >Videoclipe oficial do dueto E Agora Nós? com Sorriso Maroto e Ivete Sangalo</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">515615 exibições</span></div>
+	</div>
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+				
+
+<div class="video-cell" style="width:24.5%">
+
+
+
+
+	
+
+
+	<div class="video-entry yt-uix-hovercard">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-lYcfa80YWg0" class="video-thumb-link" href="/watch?v=lYcfa80YWg0&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow"><img title="Todo Por Amor EPS 9"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/lYcfa80YWg0/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="lYcfa80YWg0" alt="Todo Por Amor EPS 9"></a><div id="quicklist-icon-lYcfa80YWg0" class="addtoQL90"><a id="add-to-quicklist-lYcfa80YWg0" href="#"  ql="lYcfa80YWg0" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/lYcfa80YWg0/default.jpg', 'Todo Por Amor EPS 9');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-lYcfa80YWg0" href="/watch?v=lYcfa80YWg0&feature=fvhl"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" rel="nofollow">3:04</a></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-lYcfa80YWg0">
+
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<a id="video-short-title-lYcfa80YWg0" href="/watch?v=lYcfa80YWg0&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="Todo Por Amor EPS 9" rel="nofollow">Todo Por Amor EPS 9</a>
+				</div>
+				<div class="video-long-title">
+						<a id="video-long-title-lYcfa80YWg0" href="/watch?v=lYcfa80YWg0&feature=fvhl" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/PRO/Logged_Out');" title="Todo Por Amor EPS 9" rel="nofollow">Todo Por Amor EPS 9</a>
+				</div>
+			</div>
+
+				<div id="video-description-lYcfa80YWg0"  class="video-description">
+					Venevision International y Novulu presentan la mini-novela TODO POR AMOR con Marit...
+				</div>
+			
+
+      
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-lYcfa80YWg0" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-lYcfa80YWg0" class="video-date-added">4 dias atrás</span>
+
+					<span id="video-num-views-lYcfa80YWg0" class="video-view-count">22490 exibições</span>
+
+
+					<span id="video-average-rating-lYcfa80YWg0" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+					<span class="video-username"><a id="video-from-username-lYcfa80YWg0" class="hLink"  href="/user/venevisionnovela">venevisionnovela</a></span>
+
+			</div>	
+
+		</div>	
+
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Todo Por Amor EPS 9</strong><br>
+		<div><span class="hovercard-duration">3:04</span> &nbsp; <span class="hovercard-upload-date">13 de novembro de 2009</span></div>
+		<p class="hovercard-category">People & Blogs</p>
+		<p class="hovercard-username">venevisionnovela</p>
+		<p class="hovercard-description" >Venevision International y Novulu presentan la mini-novela TODO POR AMOR con Marit...</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">22490 exibições</span></div>
+	</div>
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+		</div>
+	</div>
+
+
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+
+		</div>
+
+		
+
+					<div id="feedmodule-TOP" class="feedmodule-anchor">
+				<div class="feedmodule-modheader" onmousedown="yt.www.home.bootstrap()" id="TOP-titlebar">
+
+			<div id="feed_top_videos">
+		<div class="fm2-title-border-box-gray yt-rounded">
+			<div class="fm2-title">
+				<img class="img_feed_top_videos master-sprite fm2-icon" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+				<span class="fm2-titleText" id="feed_top_videos-titleText">Mais populares</span>
+			</div>
+
+				<div class="feedmodule-preamble">
+					<a href="/videos?s=pop" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/View_TopVideos/Logged_Out');">(exibir todas)</a>
+				</div>
+
+
+					<div class="feedmodule-updown">
+
+
+<span id="mup-TOP" class="up-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('TOP', 'up');})"><img class="master-sprite img-php-up-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span><span id="mdown-TOP" class="down-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.move_module('TOP', 'down');})"><img class="master-sprite img-php-down-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span><span id="mclose-TOP" onclick="yt.www.home.queueHomepageFunction(function() { php_support.remove_module('TOP');})"><img class="master-sprite img-php-close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" /></span>
+	</div>
+
+		</div>
+	</div>
+
+
+	</div>
+
+	<div class="clear feedmodule-border-gray yt-rounded" id="feed_top_videos-content">
+
+			<div id="TOP-options" class="opt-pane" style="display: none;">
+		<div class="opt-box-top">
+			<img class="homepage-ajax-sprite img-php-opt-box-caret" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+		</div>
+		<div class="opt-banner">
+			<div class="opt-links">
+				<div class="opt-edit">Edição: Mais populares</div>
+				<div class="opt-close opt-close-button" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('TOP-options');})"><img class="img-php-close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></div>
+				<div class="opt-close opt-close-text" onclick="yt.www.home.queueHomepageFunction(function() { php_support.close_options_pane('TOP-options');})">fechar</div>
+				<div id="TOP-loading-msg" class="opt-loading-msg" style="display: none;">
+Salvando...
+				</div>
+				<div id="TOP-loading-icn" class="opt-loading-icn" style="display: none;">
+					<img width="16" id="TOP-loading-icn-image" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" image="http://s.ytimg.com/yt/img/icn_loading_animated-vfl24663.gif">
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="opt-main">
+			<div class="opt-simple-msg">
+				Deseja personalizar esta página inicial?
+
+				<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252F&hl=en_US&ltmpl=sso" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignIn/EditModuleBox');">Faça login</a> ou <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3DNone&ltmpl=sso&hl=pt_BR&service=youtube" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/LoginSuggest/SignUp/EditModuleBox');">inscreva-se</a> agora!
+
+			</div>
+		</div>
+	</div>
+
+
+		<div id="TOP-data" class="feedmodule-data">
+
+
+
+						<div class="feedmodule-body compressed-view">
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?c=24" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/24');">Entretenimento</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-vjBaNrEC-Ek" class="video-thumb-link" href="/watch?v=vjBaNrEC-Ek&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/24');" rel="nofollow"><img title="Volturi - New Moon Clip"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/vjBaNrEC-Ek/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="vjBaNrEC-Ek" alt="Volturi - New Moon Clip"></a><div id="quicklist-icon-vjBaNrEC-Ek" class="addtoQL90"><a id="add-to-quicklist-vjBaNrEC-Ek" href="#"  ql="vjBaNrEC-Ek" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/vjBaNrEC-Ek/default.jpg', 'Volturi - New Moon Clip');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-vjBaNrEC-Ek" href="/watch?v=vjBaNrEC-Ek&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/24');" rel="nofollow">0:32</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=vjBaNrEC-Ek&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/24');" title="Volturi - New Moon Clip" >Volturi - New Moon Clip</a>
+		</div>
+		<div>
+36650 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/Foforksyeswecreu">Foforksyeswecreu</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Volturi - New Moon Clip</strong><br>
+		<div><span class="hovercard-duration">0:32</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Entertainment</p>
+		<p class="hovercard-username">Foforksyeswecreu</p>
+		<p class="hovercard-description" >Nova cena de Edward, Bella e Alice com os Volturi . Legendas: Paulie - www.foforks.com.br - Twitter: @foforks</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">36650 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/music" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/10');">Música</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-31H3ZS5lP7o" class="video-thumb-link" href="/watch?v=31H3ZS5lP7o&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/10');" rel="nofollow"><img title="Beyoncé  ft-Lady Gaga &quot;Video Phone&quot; Music Video"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/31H3ZS5lP7o/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="31H3ZS5lP7o" alt="Beyoncé  ft-Lady Gaga &quot;Video Phone&quot; Music Video"></a><div id="quicklist-icon-31H3ZS5lP7o" class="addtoQL90"><a id="add-to-quicklist-31H3ZS5lP7o" href="#"  ql="31H3ZS5lP7o" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/31H3ZS5lP7o/default.jpg', 'Beyoncé  ft-Lady Gaga &quot;Video Phone&quot; Music Video');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-31H3ZS5lP7o" href="/watch?v=31H3ZS5lP7o&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/10');" rel="nofollow">4:36</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=31H3ZS5lP7o&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/10');" title="Beyoncé  ft-Lady Gaga &quot;Video Phone&quot; Music Video" >Beyoncé  ft-Lady Gaga &quot;Video Phone&quot; M...</a>
+		</div>
+		<div>
+179479 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/AfricanoBoiShow">AfricanoBoiShow</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.0" title="4.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Beyoncé  ft-Lady Gaga "Video Phone" Music Video</strong><br>
+		<div><span class="hovercard-duration">4:36</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Music</p>
+		<p class="hovercard-username">AfricanoBoiShow</p>
+		<p class="hovercard-description" >Click here to watch the video:
+http://africanoboi.com/?p=1813</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.0" title="4.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">179479 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/news" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/25');">Notícias e política</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-A4GE_oQmayM" class="video-thumb-link" href="/watch?v=A4GE_oQmayM&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/25');" rel="nofollow"><img title="Vencedora do Miss Brasil Gay é atacada por adversária"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/A4GE_oQmayM/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="A4GE_oQmayM" alt="Vencedora do Miss Brasil Gay é atacada por adversária"></a><div id="quicklist-icon-A4GE_oQmayM" class="addtoQL90"><a id="add-to-quicklist-A4GE_oQmayM" href="#"  ql="A4GE_oQmayM" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i2.ytimg.com/vi/A4GE_oQmayM/default.jpg', 'Vencedora do Miss Brasil Gay é atacada por adversária');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-A4GE_oQmayM" href="/watch?v=A4GE_oQmayM&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/25');" rel="nofollow">0:33</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=A4GE_oQmayM&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/25');" title="Vencedora do Miss Brasil Gay é atacada por adversária" >Vencedora do Miss Brasil Gay é atacad...</a>
+		</div>
+		<div>
+24254 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/kelity88keli">kelity88keli</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Vencedora do Miss Brasil Gay é atacada por adversária</strong><br>
+		<div><span class="hovercard-duration">0:33</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">News & Politics</p>
+		<p class="hovercard-username">kelity88keli</p>
+		<p class="hovercard-description" >Após o adiamento em três meses, em função do risco de propagação de gripe suína, Juiz de Fora promoveu neste sábado o tradicional concurso Miss Brasil Gay. Este ano, no entanto, o concurso terminou em confusão, quando uma das concorrentes atacou a vencedora, a Miss Espírito Santo, por discordar do resultado.
+
+Ava Simões, que levou o título, teve a coroa e a peruca arrancadas pela Miss São Paulo, no instante em que dava entrevista para a equipe de reportagem da TV Alterosa. Houve tumulto no palco, mas a vencedora mostrou a força de quem está acostumada a superar dificuldades e voltou para o discurso de campeã.</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">24254 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?c=1" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/1');">Filmes e desenhos</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-Koh-WMT1O0c" class="video-thumb-link" href="/watch?v=Koh-WMT1O0c&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/1');" rel="nofollow"><img title="Harry Potter Ultimate Editions - The Magic Begins 2 (the trio)"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/Koh-WMT1O0c/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="Koh-WMT1O0c" alt="Harry Potter Ultimate Editions - The Magic Begins 2 (the trio)"></a><div id="quicklist-icon-Koh-WMT1O0c" class="addtoQL90"><a id="add-to-quicklist-Koh-WMT1O0c" href="#"  ql="Koh-WMT1O0c" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/Koh-WMT1O0c/default.jpg', 'Harry Potter Ultimate Editions - The Magic Begins 2 (the trio)');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-Koh-WMT1O0c" href="/watch?v=Koh-WMT1O0c&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/1');" rel="nofollow">1:33</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=Koh-WMT1O0c&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/1');" title="Harry Potter Ultimate Editions - The Magic Begins 2 (the trio)" >Harry Potter Ultimate Editions - The ...</a>
+		</div>
+		<div>
+14340 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/oclvideos">oclvideos</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Harry Potter Ultimate Editions - The Magic Begins 2 (the trio)</strong><br>
+		<div><span class="hovercard-duration">1:33</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Film & Animation</p>
+		<p class="hovercard-username">oclvideos</p>
+		<p class="hovercard-description" >Vídeo das edições Ultimate de Harry Potter
+www.oclumencia.com.br</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">14340 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/sports" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/17');">Esportes</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-_y6R9dEH0Ds" class="video-thumb-link" href="/watch?v=_y6R9dEH0Ds&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/17');" rel="nofollow"><img title="Seremos Campeões, ACREDITE!"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/_y6R9dEH0Ds/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="_y6R9dEH0Ds" alt="Seremos Campeões, ACREDITE!"></a><div id="quicklist-icon-_y6R9dEH0Ds" class="addtoQL90"><a id="add-to-quicklist-_y6R9dEH0Ds" href="#"  ql="_y6R9dEH0Ds" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/_y6R9dEH0Ds/default.jpg', 'Seremos Campeões, ACREDITE!');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-_y6R9dEH0Ds" href="/watch?v=_y6R9dEH0Ds&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/17');" rel="nofollow">4:20</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=_y6R9dEH0Ds&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/17');" title="Seremos Campeões, ACREDITE!" >Seremos Campeões, ACREDITE!</a>
+		</div>
+		<div>
+42964 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/gabrielsantoro2">gabrielsantoro2</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.0" title="4.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Seremos Campeões, ACREDITE!</strong><br>
+		<div><span class="hovercard-duration">4:20</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Sports</p>
+		<p class="hovercard-username">gabrielsantoro2</p>
+		<p class="hovercard-description" >Enquanto houver 1% de chance, o Palmeiras se manterá de pé. Faremos os inimigos e os falsos palmeirenses engolirem cada palavra de calúnia e incredulidade proferida contra nós. E lembre-se: NUNCA, em nenhuma ocasião...SUBESTIME O PODER DO PALMEIRAS!
+
+Seremos Campeões, ACREDITE!
+
+Baixe o video original em qualidade alta (198mb)
+http://bit.ly/yf6ce</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.0" title="4.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">42964 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?c=26" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/26');">Guias e Estilo</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-Q1sRSt_Au8Y" class="video-thumb-link" href="/watch?v=Q1sRSt_Au8Y&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/26');" rel="nofollow"><img title="A Real Alien!!!!!"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/Q1sRSt_Au8Y/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="Q1sRSt_Au8Y" alt="A Real Alien!!!!!"></a><div id="quicklist-icon-Q1sRSt_Au8Y" class="addtoQL90"><a id="add-to-quicklist-Q1sRSt_Au8Y" href="#"  ql="Q1sRSt_Au8Y" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i2.ytimg.com/vi/Q1sRSt_Au8Y/default.jpg', 'A Real Alien!!!!!');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-Q1sRSt_Au8Y" href="/watch?v=Q1sRSt_Au8Y&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/26');" rel="nofollow">10:16</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=Q1sRSt_Au8Y&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/26');" title="A Real Alien!!!!!" >A Real Alien!!!!!</a>
+		</div>
+		<div>
+209513 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/otherjuicystar07">otherjuicystar07</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >A Real Alien!!!!!</strong><br>
+		<div><span class="hovercard-duration">10:16</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Howto & Style</p>
+		<p class="hovercard-username">otherjuicystar07</p>
+		<p class="hovercard-description" >subscribe to my beauty channel:
+http://www.youtube.com/user/juicystar07
+
+follow me on twitter:
+http://www.twitter.com/juicystar007
+
+SHOP!
+
+http://www.glitzy-glam.com
+coupon codes- 
+HOLIDAY10 for 10% off orders up to $100
+HOLIDAY15 for 15% off orders over $100
+
+http://www.pandorasmakeupbox.com
+coupon code:
+blair for $10 off any order over $40</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">209513 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?c=28" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/28');">Ciência e tecnologia</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-kqrwtCUr3i0" class="video-thumb-link" href="/watch?v=kqrwtCUr3i0&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/28');" rel="nofollow"><img title="Vencedora do Miss Brasil Gay é atacada por adversária"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/kqrwtCUr3i0/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="kqrwtCUr3i0" alt="Vencedora do Miss Brasil Gay é atacada por adversária"></a><div id="quicklist-icon-kqrwtCUr3i0" class="addtoQL90"><a id="add-to-quicklist-kqrwtCUr3i0" href="#"  ql="kqrwtCUr3i0" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/kqrwtCUr3i0/default.jpg', 'Vencedora do Miss Brasil Gay é atacada por adversária');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-kqrwtCUr3i0" href="/watch?v=kqrwtCUr3i0&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/28');" rel="nofollow">0:33</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=kqrwtCUr3i0&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/28');" title="Vencedora do Miss Brasil Gay é atacada por adversária" >Vencedora do Miss Brasil Gay é atacad...</a>
+		</div>
+		<div>
+6176 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/pedrobmg">pedrobmg</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Vencedora do Miss Brasil Gay é atacada por adversária</strong><br>
+		<div><span class="hovercard-duration">0:33</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Science & Technology</p>
+		<p class="hovercard-username">pedrobmg</p>
+		<p class="hovercard-description" >pós o adiamento em três meses, em função do risco de propagação de gripe suína, Juiz de Fora promoveu neste sábado o tradicional concurso Miss Brasil Gay. Este ano, no entanto, o concurso terminou em confusão, quando uma das concorrentes atacou a vencedora, a Miss Espírito Santo, por discordar do resultado.
+
+Ava Simões, que levou o título, teve a coroa e a peruca arrancadas pela Miss São Paulo, no instante em que dava entrevista para a equipe de reportagem da TV Alterosa. Houve tumulto no palco, mas a vencedora mostrou a força de quem está acostumada a superar dificuldades e voltou para o discurso de campeã.</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">6176 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?c=19" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/19');">Viagens e eventos</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-nnPSDIMv4BU" class="video-thumb-link" href="/watch?v=nnPSDIMv4BU&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/19');" rel="nofollow"><img title="Confusão no Miss Brasil Gay  2009. Parabéns Ava Simões."    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/nnPSDIMv4BU/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="nnPSDIMv4BU" alt="Confusão no Miss Brasil Gay  2009. Parabéns Ava Simões."></a><div id="quicklist-icon-nnPSDIMv4BU" class="addtoQL90"><a id="add-to-quicklist-nnPSDIMv4BU" href="#"  ql="nnPSDIMv4BU" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/nnPSDIMv4BU/default.jpg', 'Confusão no Miss Brasil Gay  2009. Parabéns Ava Simões.');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-nnPSDIMv4BU" href="/watch?v=nnPSDIMv4BU&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/19');" rel="nofollow">1:15</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=nnPSDIMv4BU&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/19');" title="Confusão no Miss Brasil Gay  2009. Parabéns Ava Simões." >Confusão no Miss Brasil Gay  2009. Pa...</a>
+		</div>
+		<div>
+5741 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/guerini74">guerini74</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.5" title="3.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Confusão no Miss Brasil Gay  2009. Parabéns Ava Simões.</strong><br>
+		<div><span class="hovercard-duration">1:15</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Travel & Events</p>
+		<p class="hovercard-username">guerini74</p>
+		<p class="hovercard-description" >Reportagem exibida pela TV Alterosa Juiz de Fora - MG</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-3.5" title="3.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">5741 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?s=mp" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/0%26s%3Dmp');">Mais vistos</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-LLVxWpKdwjg" class="video-thumb-link" href="/watch?v=LLVxWpKdwjg&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmp');" rel="nofollow"><img title="Ely Kim, o melhor dançarino do mundo"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/LLVxWpKdwjg/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="LLVxWpKdwjg" alt="Ely Kim, o melhor dançarino do mundo"></a><div id="quicklist-icon-LLVxWpKdwjg" class="addtoQL90"><a id="add-to-quicklist-LLVxWpKdwjg" href="#"  ql="LLVxWpKdwjg" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/LLVxWpKdwjg/default.jpg', 'Ely Kim, o melhor dançarino do mundo');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-LLVxWpKdwjg" href="/watch?v=LLVxWpKdwjg&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmp');" rel="nofollow">1:35</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=LLVxWpKdwjg&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmp');" title="Ely Kim, o melhor dançarino do mundo" >Ely Kim, o melhor dançarino do mundo</a>
+		</div>
+		<div>
+146088 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/danilomiedi">danilomiedi</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-2.5" title="2.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Ely Kim, o melhor dançarino do mundo</strong><br>
+		<div><span class="hovercard-duration">1:35</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">People & Blogs</p>
+		<p class="hovercard-username">danilomiedi</p>
+		<p class="hovercard-description" >Depois de tantas participações musicais nessa campanha toda, eu não aguentei e comecei a me aventurar como dançarino. Claro que jamais chegaria aos pés de Ely Kim, o melhor de todos os tempos!
+
+Porém, isso não será um problema pra vocês, malungos! Pois ele, Ely Kim, está entre nós!!!
+
+http://danilomiedi.blogspot.com/</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-2.5" title="2.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">146088 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+			<div class="feeditem-compressed">
+
+
+				<div class="feeditem-compressed-category-title">
+					<div>
+						<a class="hLink" href="/videos?s=mf" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/CategoryTitle/Logged_Out/0%26s%3Dmf');">Mais adotados como favoritos</a>
+					</div>
+				</div>
+
+				<div class="TOP-data compressed-form-content yt-uix-hovercard">
+					<div class="clear">
+						<div class="feedmodule-thumbnail">
+							<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-na85Ee_3iaY" class="video-thumb-link" href="/watch?v=na85Ee_3iaY&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmf');" rel="nofollow"><img title="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD"    src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/na85Ee_3iaY/default.jpg" class="vimg120 yt-uix-hovercard-target" qlicon="na85Ee_3iaY" alt="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD"></a><div id="quicklist-icon-na85Ee_3iaY" class="addtoQL90"><a id="add-to-quicklist-na85Ee_3iaY" href="#"  ql="na85Ee_3iaY" title="Adicionar vídeo à Lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="yt.www.watch.quicklist.clickedAddIcon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/na85Ee_3iaY/default.jpg', 'Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD');return false;"
+	onmouseover="yt.www.watch.quicklist.mouseOverQuickAdd(this)"
+	onmouseout="yt.www.watch.quicklist.mouseOutQuickAdd(this)"
+	onmousedown="yt.analytics.urchinTracker('/Events/index/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/my_quicklist">Adicionado à Lista rápida <br/></a></div></div>
+<div class="video-time"><a id="video-run-time-na85Ee_3iaY" href="/watch?v=na85Ee_3iaY&feature=topvideos"  onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmf');" rel="nofollow">3:09</a></div></div></div></div>
+						</div>
+						
+						
+	<div class="feedmodule-singleform-info">
+
+		<div class="video-title">
+			<a href="/watch?v=na85Ee_3iaY&feature=topvideos" class="yt-uix-hovercard-target" onmousedown="yt.analytics.urchinTracker('/Events/Home/PersonalizedHome/TOP/Logged_Out/0%26s%3Dmf');" title="Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD" >Shakira feat. Lil Wayne Give It Up To...</a>
+		</div>
+		<div>
+25280 exibições
+		</div>
+		<div>
+			<nobr>
+			<a href="/user/Releases3">Releases3</a>
+			</nobr>
+		</div>
+		<div class="feedmodule-singleform-info-ratings">
+						
+
+	<span>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</span>
+
+
+		</div>
+	</div>
+			<div class="yt-uix-hovercard-content" style="display: none;">
+		<strong class="hovercard-title" >Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD</strong><br>
+		<div><span class="hovercard-duration">3:09</span> &nbsp; <span class="hovercard-upload-date">16 de novembro de 2009</span></div>
+		<p class="hovercard-category">Music</p>
+		<p class="hovercard-username">Releases3</p>
+		<p class="hovercard-description" >Shakira feat. Lil Wayne Give It Up To Me Official Music Video Full HD Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me Shakira feat. Lil Wayne Give It Up To Me.</p>
+		<hr>
+		<div><div class="hovercard-rating">		
+
+	<div>
+
+	
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+</div> <span class="hovercard-views">25280 exibições</span></div>
+	</div>
+
+
+						<div class="spacer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="spacer">&nbsp;</div>
+			</div>
+		<div class="spacer">&nbsp;</div>
+	</div>
+
+	
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+
+		</div>
+
+			</div>
+
+	<div class="main-spacer-bottom"></div>
+</div> <!-- end homepage-main-content -->
+
+<div id="homepage-side-content" class="">
+
+	<script type="text/javascript">
+			google_ad_client = 'ca-youtube-homepage';
+	google_ad_channel = 'pyv-top-right-homepage-us logged-out';
+	google_max_num_ads = '1';
+	google_ad_output = 'js';
+	google_ad_type = 'text';
+	google_kw = 'movie,music,sports,comedy,entertainment';
+	google_kw_type = 'broad';
+	google_only_pyv_ads = true;
+	google_ad_request_done = yt.www.ads.pyvHomeAfcCallback;  
+		var is_pyv_allowed = false;
+	</script>
+
+			
+
+		<div id="pyv-placeholder"></div>
+
+	<!-- Begin ad tag -->
+
+		<div id="ad_creative_2" class="ad-div homepage-side-block">
+
+
+
+
+	
+
+		
+		
+	<input type="hidden" id="pvaHl" value="pt_BR"/>
+	<input type="hidden" id="pvaTag" value="http://ad-g.doubleclick.net/adj/com.ythome/_default;sz=399x299;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_2;kap=0;tile=2;"/>
+	<input type="hidden" id="burl" value="http://www.youtube.com/pva/"/>
+	<input type="hidden" id="canv" value="False"/>
+	<input type="hidden" id="tdl" value="http://www.youtube.com/"/>
+	<input type="hidden" id="yeurl" value="http://s.ytimg.com/yt/swf/yvaexpandable-vfl131353.swf"/>
+
+
+
+
+	
+	<script type="text/javascript">
+		if (yt.timing) {
+			yt.timing['addomain']="ad-g.doubleclick.net";
+		}
+		ord = Math.random()*10000000000000000;
+		add_timestamp = (Math.floor(Math.random() * 100) == 0);
+		if (add_timestamp) {
+			kts = new Date().getTime();
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/com.ythome/_default;sz=399x299;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_2;kap=0;tile=2;kts='+ kts + ';ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		} else {
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/com.ythome/_default;sz=399x299;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_2;kap=0;tile=2;ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		}
+	</script>
+
+			<div style="font-size: 10px; padding-top: 3px;" class="alignC grayText">
+				<a href="/t/ads_preferences">Publicidade</a>
+
+			</div>
+
+		</div>
+
+
+
+	<!-- End ad tag -->
+
+
+
+	
+
+			
+
+
+
+
+
+	
+
+
+
+
+<div id="ppv-placeholder" style="display: none;">
+
+	
+	<div class="pyv-single">
+		<a class="big-thumb" title="Improvável - Só Perguntas (Barbixas, Rafinha Bastos e Marcelo Tas)" href="/watch?v=3fZyiMkMV38&amp;feature=fvhr">
+			<img src="http://i4.ytimg.com/vi/3fZyiMkMV38/hqdefault.jpg" alt="Improvável - Só Perguntas (Barbixas, Rafinha Bastos e Marcelo Tas)" width="298" height="223"/>
+		</a>
+		<div class="video-time" style="width:298px">
+			<a title="Improvável - Só Perguntas (Barbixas, Rafinha Bastos e Marcelo Tas)" href="/watch?v=3fZyiMkMV38&amp;feature=fvhr">
+Assistir a este vídeo
+			</a>
+		</div>
+		<div style="padding: 0 6px 5px 6px;">
+			<a style="font-weight: bold;" href="/watch?v=3fZyiMkMV38&amp;feature=fvhr">Improvável - Só Perguntas (Barbixas, Rafinha Bastos e Marcelo Tas)</a><br/>
+			<div>http://www.improvavel.com.br --- Jogo: Só Perguntas Regra: S...</div>
+			<a href="/user/videosimprovaveis" style="font-size: 11px;">videosimprovaveis</a>
+		</div>
+	</div>
+
+	<div class="pyv-label-home">
+		<a href="http://www.google.com/support/youtube/bin/answer.py?answer=143421">Vídeo em destaque</a>
+	</div>
+			
+
+</div>
+
+
+
+		<div id="iyt-login-suggest-side-box" class="homepage-side-block">
+				<div style="border: 1px solid rgb(153, 153, 153); padding: 5px;">
+	<div style="border: 1px solid rgb(204, 204, 204); padding: 4px; background: #eee; text-align: center;">
+			<strong>Deseja personalizar esta página inicial?
+</strong><br/>
+
+			<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252F&hl=en_US&ltmpl=sso">Faça login</a> ou <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3D&ltmpl=sso&hl=pt_BR&service=youtube">inscreva-se</a> agora!
+
+	</div>  		</div>  
+		</div>
+
+
+
+
+
+			
+		
+
+
+	<!-- Begin ad tag -->
+
+		<div id="ad_creative_3" class="ad-div homepage-side-block">
+
+
+
+
+	
+
+		
+
+
+
+	
+	<script type="text/javascript">
+		if (yt.timing) {
+			yt.timing['addomain']="ad-g.doubleclick.net";
+		}
+		ord = Math.random()*10000000000000000;
+		add_timestamp = (Math.floor(Math.random() * 100) == 0);
+		if (add_timestamp) {
+			kts = new Date().getTime();
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/tst.ythome/promo1;sz=300x50,300x100;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_3;tile=3;kts='+ kts + ';ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		} else {
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/tst.ythome/promo1;sz=300x50,300x100;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_3;tile=3;ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		}
+	</script>
+
+
+		</div>
+
+
+
+	<!-- End ad tag -->
+
+
+			
+		
+
+
+	<!-- Begin ad tag -->
+
+		<div id="ad_creative_5" class="ad-div homepage-side-block">
+
+
+
+
+	
+
+		
+
+
+
+	
+	<script type="text/javascript">
+		if (yt.timing) {
+			yt.timing['addomain']="ad-g.doubleclick.net";
+		}
+		ord = Math.random()*10000000000000000;
+		add_timestamp = (Math.floor(Math.random() * 100) == 0);
+		if (add_timestamp) {
+			kts = new Date().getTime();
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/tst.ythome/promo3;sz=300x50,300x100;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_5;tile=5;kts='+ kts + ';ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		} else {
+			document.write('<scri' + 'pt language="JavaScript" src="http://ad-g.doubleclick.net/adj/tst.ythome/promo3;sz=300x50,300x100;klg=pt;kt=K;kga=-1;kgg=-1;kcr=br;dc_dedup=1;kmyd=ad_creative_5;tile=5;ord=' + ord + '?" type="text/javascript"><\/scri' + 'pt>');
+		}
+	</script>
+
+
+		</div>
+
+
+
+	<!-- End ad tag -->
+
+
+
+	<div class="clear"></div>
+
+	<div class="homepage-side-block">
+		<div id="homepage-whats-new-block">
+		<div class="side-announcement-box yt-rounded">
+				<div class="homepage-whats-new-content">
+		<div class="homepage-block-heading">O que há de novo</div>
+
+			<div class="homepage-whatsnew-entry">
+				<div class="homepage-whatsnew-entry-title">
+					<a href="/blog?entry=IH_EDPBv7Ng">Os dados do Insight agora podem ser exportados</a>
+				</div>
+				<div class="homepage-whatsnew-text">
+Analise os dados do Insight com mais facilidade
+				</div>
+			</div><div class="clear"></div>
+			<div class="homepage-whatsnew-entry">
+				<div class="homepage-whatsnew-entry-title">
+					<a href="/shows">Programas e filmes</a>
+				</div>
+				<div class="homepage-whatsnew-text">
+Assista programas e filmes na íntegra
+				</div>
+			</div><div class="clear"></div>
+
+
+
+				<div class="homepage-whatsnew-entry">
+					<div class="homepage-whatsnew-entry-title">
+						<a href="http://youtubebrblog.blogspot.com/">Y.000.000.000uTube</a>
+					</div>
+					<div class="homepage-whatsnew-text">
+						Três anos atrás, Steve e eu estávamos parados em frente aos nossos escritórios e <a href="http://feeds.feedburner.com/YoutubeBrazilBlog">de brincadeira nos coroamos</a> os <a href="http://feeds.feedburner.com/YoutubeBrazilBlog">reis do hambúrguer da mídia</a>. Nós tínhamos acabado de virar notícia por nos juntarmos ...
+					</div>
+				</div><div class="clear"></div>
+
+				<div class="alignR" style="padding-top: 5px;">
+					<a href="http://youtubebrblog.blogspot.com/">Leia mais no nosso blog</a>
+				</div>
+			<div style="font-size: 1px; height: 1px;"><br/></div>
+	</div>
+
+			<div class="spacer">&nbsp;</div>
+		</div>
+	</div>
+
+</div>
+
+
+</div> <!-- end homepage-side-content -->
+
+<div class="clear"></div>
+
+
+
+
+
+		<div id="promos" class="clear">
+			
+		</div>
+		<div id="footer">
+				<div class="search">
+			<form autocomplete="off" class="search-form" action="/results" method="get" name="footer-search-form">
+		<input id="footer-search-term" class="search-term" name="search_query" type="text"  onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128"  onfocus="_addclass(this, 'search-term-focus')" onblur="_removeclass(this, 'search-term-focus')">
+			<input id="search-type-footer" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="if (_gel('footer-search-term').value != '') { document['footer-search-form'].submit(); }; return false;"><span>Pesquisar</span></a>
+
+	</form>
+
+	</div>
+	<div class="links">
+		<table cellpadding="0" cellspacing="0">
+			<tr>
+				<th>YouTube</th>
+				<th>Programas</th>
+				<th>Ajuda</th>
+				<th>Política</th>
+				<th>Descobrir</th>
+			</tr>
+			<tr>
+				<td><a href="/t/contact_us" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Contact');">Entre em contato conosco</a></td>
+				<td><a href="/advertisebr" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Advertising');">Propaganda</a></td>
+				<td><strong><a href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=pt-BR" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Help Resources');" target="_blank">Obtenha ajuda</a></strong></td>
+				<td><a href="/t/privacy" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Privacy Policy');">Política de privacidade</a></td>
+				<td><a href="/mobile" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube on Your Phone');">YouTube no seu Celular</a></td>
+			</tr>
+			<tr>
+				<td><a href="/t/about" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Company Info');">Informações da empresa</a></td>
+
+					<td><a href="http://code.google.com/intl/pt-BR/apis/youtube/overview.html" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Developers');">Desenvolvedores</a></td>
+				<td><a href="/t/yt_handbook_home" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube Handbook');">Manual do YouTube</a></td>
+					<td><a href="/t/terms" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Terms of Use');">Termos de Uso</a></td>
+				<td><a href="/youtubeonyoursite" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube on Your Site');">YouTube em seu site</a></td>
+			</tr>
+			<tr>
+				<td><a href="/press_room" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Press Room');">Sala de imprensa</a></td>
+				<td><a href="/partners" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Partnerships');">Parcerias</a></td>
+				<td><a href="http://www.google.com/support/forum/p/youtube?hl=pt_BR" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Community Help Forums');">Fóruns de ajuda da comunidade</a></td>
+				<td><a href="/t/copyright_notice" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Copyright Notices');">Direitos autorais</a></td>
+				<td><a href="/youtubeonyourtv" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube on Your TV');">YouTube na sua TV</a></td>
+			</tr>
+			<tr>
+				<td><a href="http://ytbizblog.blogspot.com/" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Business Blog');">Blog de negócios</a></td>
+				<td><a href="/t/content_management" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Content Management');">Gerenciamento de conteúdo</a></td>
+				<td><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=pt-BR" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Safety Center');">Central de Segurança</a></td>
+				<td><a href="/t/community_guidelines" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Community Guidelines');">Diretrizes da comunidade</a></td>
+				<td><a href="/t/rss_feeds" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube RSS Feeds');">Feeds RSS do YouTube</a></td>
+			</tr>
+			<tr>
+				<td><a href="/blog" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'YouTube Blog');">Blog do YouTube</a></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="/testtube" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'TestTube');">TestTube</a></td>
+			</tr>
+		</table>
+	</div>
+	<div class="region-and-language-pickers">
+		<div class="google-home">
+			<a href="http://www.google.com.br/webmasters/igoogle/youtube.html">Adicionar o YouTube à sua página inicial do Google</a>
+		</div>
+			<div class="region-picker-box">
+		<span class="region-label">Local atual:</span>
+		<strong class="region-title">Brasil</strong>
+		<a href="#" onclick="yt.www.masthead.loadPicker('region-picker'); return false;">Mostrar locais</a>
+			<div id="region-picker-container">
+				<div id="region-picker-loading" style="display: none">Carregando...</div>
+			</div>
+	</div>
+
+			<div class="language-picker-box">
+		<span class="language-label">Idioma atual:</span>
+		<strong class="language-title">Português</strong>
+		<a href="#" onclick="yt.www.masthead.loadPicker('language-picker'); return false;">Mostrar idiomas</a>
+			<div id="language-picker-container">
+				<div id="language-picker-loading" style="display: none">Carregando...</div>
+			</div>
+	</div>
+
+	</div>
+
+		</div>
+		<div id="copyright">
+				&copy; 2009 YouTube, LLC
+
+		</div>
+		
+		
+		
+
+	
+
+
+		<!-- end bottom section -->
+	</div>
+	<div> 
+
+	</div>
+	<!--[if lt IE 8]></div><![endif]-->
+			<script>
+		
+		
+				yt.www.thumbnailDelayLoad.fudgeFactor = 0;
+			if (document.documentElement["getBoundingClientRect"]) {
+				yt.events.listen(window, 'scroll', yt.www.thumbnailDelayLoad.loadImages);
+				yt.events.listen(window, 'resize', yt.www.thumbnailDelayLoad.loadImages);
+			}
+			yt.www.thumbnailDelayLoad.loadImages();
+				yt.www.thumbnailDelayLoad.loadAllAtOnce = true;
+		
+			_gel('masthead-search-term').focus();
+		
+			yt.setTimeout(function() {
+				window.yt.www.suggest.install(document.searchForm,
+						document.searchForm.search_query,
+						'yt','pt-BR','fechar',
+						'Sugestões',
+						'Pesquisa na web',
+						-1);
+					}, 100);
+	</script>
+	
+	<script id="legacy-user-datastore" style="behavior:url('#default#userdata')"></script>
+	
+	
+	
+	
+	
+
+
+
+	
+
+
+	<a name="pageBottom"></a>
+</body>
+
+</html>
