@@ -1,5 +1,5 @@
 .shouty
   .avatar= gravatar_for shouty.user
-  .body= auto_link(shouty.body)
+  .body= auto_link(shouty.body, :href_options => { :target => '_blank' })
   .user= shouty.user.login
   .date= "#{time_ago_in_words(shouty.created_at)} #{I18n.t(:ago)}"
