@@ -1,3 +1,12 @@
+Given /^I am logged$/ do
+  visit signup_path
+  fill_in "user_login", :with => ($login = "dcrec1")
+  fill_in "user_email", :with => ($email = "dc.rec1@gmail.com")
+  fill_in "user_password", :with => ($password = "password")
+  fill_in "user_password_confirmation", :with => $password
+  click_button "Create"
+end
+
 Given /^I exist$/ do
   $User = User.create! :login => "dcrec1",
                        :email => "dc.rec1@gmail.com",
@@ -13,5 +22,5 @@ Given /^I log in$/ do
 end
 
 Then /^I should see shouties table$/ do |table|
-  table.diff! Hpricot(response.body).search(".shouty > .body").collect { |body| body.inner_text }
+  table.raw.flatten.should == Hpricot(page.body).search(".shouty > .body").collect { |body| body.inner_text }
 end
