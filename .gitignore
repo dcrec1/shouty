@@ -14,3 +14,4 @@ config/deploy.rb
 config/initializers/hoptoad.rb
 config/newrelic.yml
 *.swp
+rerun.txt
