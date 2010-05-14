@@ -20,17 +20,4 @@ def exec(cmd)
   system cmd
 end
 
-namespace :stories do
-  task :default => [:'db:test:prepare'] do
-    exec "cucumber"
-  end
-  
-  task :enhanced => [:'db:test:prepare', :'culerity:rails:start'] do
-    exec "cucumber -p enhanced"
-    exec "rake culerity:rails:stop"
-  end
-  
-  task :all => [:default, :enhanced]
-end
-
-task :build => [:'db:migrate', :spec, :'stories:all', :'metrics:all']
+task :build => [:'db:migrate', :spec, :cucumber, :'metrics:all']
