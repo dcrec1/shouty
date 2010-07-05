@@ -45,6 +45,17 @@ body {
     padding: 10px;
     
     form {
+      @include blueprint-form;
+
+      fieldset {
+        border: 0;
+
+        label {
+          display: inline-block;
+          width: 120px;
+        }
+      }
+
       margin-bottom: 10px;
 
       input[type=submit] {
