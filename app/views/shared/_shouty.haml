@@ -1,5 +1,5 @@
 .shouty
-  .avatar= gravatar_for shouty.user
-  .body= auto_link(shouty.body, :html => {:target => "_blank"}) { |text| truncate(text, 15) }
+  .avatar= gravatar_for(shouty.user).html_safe
+  .body= auto_link(shouty.body, :html => { :target => "_blank" }) { |text| truncate(text, 15) }
   .user= shouty.user.login
   .date= "#{time_ago_in_words(shouty.created_at)} #{I18n.t(:ago)}"

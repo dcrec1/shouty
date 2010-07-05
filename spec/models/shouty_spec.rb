@@ -1,7 +1,12 @@
-require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
+require 'spec_helper'
 
 describe Shouty do
   should_belong_to :user
   should_validate_presence_of :user, :body
-  should_have_default_scope :order => 'id DESC'
+
+  it 'should return newest shouties first' do
+    Factory(:shouty)
+    shouty = Factory(:shouty)
+    Shouty.first.should == shouty
+  end
 end

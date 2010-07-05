@@ -1,0 +1,140 @@
+// This import applies a global reset to any page that imports this stylesheet.
+@import "blueprint/reset";
+
+// To configure blueprint, edit the partials/base.sass file.
+@import "partials/base";
+
+// Import all the default blueprint modules so that we can access their mixins.
+@import "blueprint";
+
+// Import the non-default scaffolding module.
+@import "blueprint/scaffolding";
+
+// To generate css equivalent to the blueprint css but with your configuration applied, uncomment:
+// +blueprint
+
+@import "compass/css3/border-radius";
+@import "compass/css3/box-shadow";
+@import "compass/utilities/links/hover-link";
+
+// Page layout can be done using mixins applied to your semantic classes and IDs:
+body {
+  @include blueprint-typography(true);
+  @include blueprint-utilities;
+  @include blueprint-debug;
+  @include blueprint-interaction;
+  @include blueprint-scaffolding;
+
+  background-color: #161616;
+
+  #container {
+    @include container; 
+  }
+
+  $content-columns: $blueprint-grid-columns / 2;
+
+  #header, #footer, #content {
+    @include push(($blueprint-grid-columns - $content-columns) / 2);
+    @include column($content-columns, true); 
+   }
+
+  #content {
+    @include border-radius;
+
+    background-color: #ffffff;
+    padding: 10px;
+    
+    form {
+      margin-bottom: 10px;
+
+      input[type=submit] {
+        background: #222 url(../images/overlay.png) repeat-x;
+        display: inline-block; 
+        padding: 5px 10px 6px; 
+        color: #fff; 
+        text-decoration: none;
+        @include border-radius(6px);
+        @include box-shadow;
+        border: 0px;
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        position: relative;
+        cursor: pointer
+      }
+
+      input[type=submit]:hover {
+        background-color: #111; 
+        color: #fff;
+      }
+
+      ol {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+      }
+
+      textarea {
+        height: 57px;
+        width: 100%;
+      }
+
+      li.commit {
+        text-align: right;
+      }
+    }
+
+    #flash {
+      .alert {
+        @include notice;
+      }
+    }
+
+    .shouties {
+      padding-top: 5px;
+
+      .shouty {
+        @include column($content-columns, true); 
+        margin-bottom: 5px;
+
+        $avatar-columns: 2;
+        .avatar {
+          @include column($avatar-columns);
+          margin-right: -10px;
+        }
+
+        .body {
+          @include column($content-columns - $avatar-columns);
+          @include last;
+        }
+
+        .user, .date {
+          @include quiet;
+          display: inline;
+        }
+      }
+    }
+
+    #update_shouties {
+      display: none;
+    }
+  }
+
+  #header {
+    margin-bottom: 0px;
+
+    h1 {
+      color: #ffffff;
+      margin: 10px;
+      float:left;
+    }
+
+    .logout {
+      float: right;
+      margin-top: 30px;
+
+      a {
+        @include hover-link;
+        color: white;
+      }
+    }
+  }
+}

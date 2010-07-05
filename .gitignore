@@ -1,6 +1,6 @@
 .DS_Store
 log/*
-tmp/*
+tmp/**/*
 db/*.sqlite3
 coverage
 solr
@@ -10,9 +10,12 @@ public/stylesheets
 public/javascripts/*_packaged.js
 doc/specs.html
 doc/features.html
-config/deploy.rb
-config/initializers/hoptoad.rb
-config/newrelic.yml
-*.swp
-rerun.txt
 tags
+*.swp
+*.swo
+rerun.txt
+.bundle
+db/schema.rb
+specifications
+cache
+gems

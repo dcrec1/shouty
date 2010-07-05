@@ -1,8 +1,8 @@
 class ShoutiesController < InheritedResources::Base
-  respond_to :html, :json, :xml
-  
-  before_filter :require_user
+  before_filter :authenticate_user!
   before_filter :assign_user, :only => [:create]
+
+  respond_to :html, :js
   
   def index
     @shouty = Shouty.new
@@ -10,7 +10,7 @@ class ShoutiesController < InheritedResources::Base
   end
   
   def fetch
-    render :partial => "shared/shouty", :collection => Shouty.paginate(:page => 1)
+    collection
   end
   
   protected
@@ -22,6 +22,6 @@ class ShoutiesController < InheritedResources::Base
   private
   
   def assign_user
-    params[:shouty].merge! :user => current_user
+    params[:shouty][:user] = current_user
   end
 end

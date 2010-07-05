@@ -1,4 +1,4 @@
-@javascrip
+@javascript
 Feature: Create Shouty
 
   Scenario: Home page

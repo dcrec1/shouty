@@ -1,14 +1,13 @@
 Feature: List Shouties
 
   Scenario: Home page
-    Given I exist
-    Given the following shouties exist
-      | body | user_id |
-      |  hi  |    1    |
-      |  my  |    1    |
-      | name |    1    |
-      |  is  |    1    |
+    Given a shouty exists with body: "hi"
+    And another shouty exists with body: "my"
+    And another shouty exists with body: "name"
+    And another shouty exists with body: "is"
+    And I exist
     When I log in
+    And I go to the home page
     Then I should see shouties table
       |  is  |
       | name |

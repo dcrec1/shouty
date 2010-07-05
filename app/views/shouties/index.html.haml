@@ -1,8 +1,9 @@
-- semantic_remote_form_for @shouty do |form|
-  - form.inputs do
+= semantic_form_for @shouty, :remote => true do |form|
+  = form.inputs do
     = form.input :body, :label => false
-  - form.buttons do
+  = form.buttons do
     = form.commit_button :label => "shoutt!"
 
 .shouties= render :partial => "shared/shouty", :collection => @shouties
-= periodically_call_remote :url => fetch_shouties_path, :frequency => '30', :update => '.shouties', :method => :get
+
+= link_to t(:update), fetch_shouties_path, :remote => true, :id => "update_shouties"

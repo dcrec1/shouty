@@ -1,19 +1,47 @@
-require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
+require 'spec_helper'
 
 describe ShoutiesController do
-  should_have_before_filter :require_user
+  include Devise::TestHelpers
+  render_views
   
-  context "with the user logged" do
-    before :each do 
-      login_user 
+  it "should require authentication" do
+    get :index
+    response.should redirect_to(new_user_session_path)
+  end
+
+  context "with a logger user" do
+    before :all do
+      31.times.map { Factory(:shouty) }
     end
-    
-    should_behave_like_resource :formats => [:html, :xml, :json], :paginate => true
-    
-    it "respoding to GET return the first page of shouties" do
-      Shouty.stub!(:paginate).with(:page => 1).and_return(shouties = [Shouty.new, Shouty.new])
-      controller.should_receive(:render).with(:partial => "shared/shouty", :collection => shouties)
-      get :fetch
+
+    before :each do
+      sign_in @user = Factory(:user)
+    end
+
+    context "responding to POST #create" do
+      it "should create a shouty for the logged user" do
+        post :create, :shouty => { :body => "hello!" }
+        Shouty.first.user.should == @user
+      end
+    end
+
+    context "responding to GET #index" do
+      it "assigns a new Shouty as @shouty" do
+        get :index
+        assigns(:shouty).should be_new_record
+      end
+
+      it "should assign the specified page of shouties as @shouties" do
+        get :index, :page => 2      
+        assigns(:shouties).should == [Shouty.last]
+      end
+    end
+
+    context "responding to GET #fetch" do
+      it "assigns to @shouties the first page of shouties" do
+        get :fetch, :format => :js
+        assigns(:shouties).should eql(Shouty.paginate(:page => 1))
+      end
     end
   end
 end

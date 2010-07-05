@@ -2,11 +2,22 @@
 !!!
 %html
   %head
-    %title= Shouty
-    = javascript_include_merged :base
-    = stylesheet_link_merged :base
+    %title My application
+    = stylesheet_link_tag 'screen', :media => 'screen, projection'
+    = stylesheet_link_tag 'print', :media => 'print'
+    /[if lt IE 8]
+      = stylesheet_link_tag 'ie', :media => 'screen, projection'
+    %script{ :type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" }
+    %script{ :type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js" }
+    = javascript_include_tag :all
+    = csrf_meta_tag
   %body
-    %h1
-      = link_to "Shouty", root_path
-      = link_to t(:logout), logout_path, :class => "logout"
-    .content= yield
+    #container
+      #header
+        %h1 Shouty
+        - if user_signed_in?
+          .logout= link_to t(:logout), destroy_user_session_path 
+      #content
+        #flash= %w(notice alert).map { |key| message(key) }.join.html_safe
+        = yield
+      #footer

@@ -1,5 +1,0 @@
-- semantic_form_for @user do |form|
-  = form.inputs :login, :email, :password, :password_confirmation
-  - form.buttons do
-    = form.commit_button t(:create)
-    = '&nbsp;' + t(:or) + ' ' + link_to(t(:login), root_path)
