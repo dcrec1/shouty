@@ -49,6 +49,9 @@ body {
 
       fieldset {
         border: 0;
+        margin: 0;
+        padding-top: 0;
+        padding-bottom: 0;
 
         label {
           display: inline-block;
@@ -85,7 +88,7 @@ body {
 
       textarea {
         height: 57px;
-        width: 100%;
+        width: 98%;
       }
 
       li.commit {
