@@ -24,4 +24,12 @@ Screw.Unit(function(){
       expect($(".shouties").html()).to(equal, html);
     });
   });
+
+  describe("on #removeShouty with an id", function() {
+    it("should remove the element with id shouty_#{id}", function() {
+      $(".shouties").html("<div id='shouty_14' />");
+      removeShouty(14);
+      expect($("#shouty_14").size()).to(equal, 0);
+    });
+  });
 });

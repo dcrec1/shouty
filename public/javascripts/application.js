@@ -11,6 +11,10 @@ function updateShouties() {
     $("#update_shouties").callRemote();
 }
 
+function removeShouty(id) {
+    $("#shouty_" + id).remove();
+}
+
 $(function() {
     setInterval(updateShouties, "30000");
 })
