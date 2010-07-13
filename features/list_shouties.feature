@@ -13,3 +13,4 @@ Feature: List Shouties
       | name |
       |  my  |
       |  hi  |
+  And I should not see "delete"
