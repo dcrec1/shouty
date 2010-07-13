@@ -5,6 +5,7 @@ en:
   ago: "ago"
   create: "Create"
   create_your_account: "create your account"
+  delete: "delete"
   do_login: "Login"
   login: "login"
   logout: "logout"
