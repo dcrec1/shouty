@@ -4,7 +4,7 @@ gem 'rails', '3.0.0'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
-gem "haml", ">=3.0.4"
+gem "haml", ">=3.0.18"
 gem "inherited_resources", ">=1.1.2"
 gem "will_paginate", ">=3.0.pre"
 gem "devise", ">=1.1.2"
