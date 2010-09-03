@@ -14,3 +14,10 @@ Feature: List Shouties
       |  my  |
       |  hi  |
   And I should not see "delete"
+
+  Scenario: Links
+    Given a shouty exists with body: "http://www.mouseoverstudio.com.br"
+    And I exist
+    When I log in
+    And I go to the home page
+    Then I should see "http://www.m..."

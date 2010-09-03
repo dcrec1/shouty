@@ -1,6 +1,6 @@
 .shouty{ :id => "shouty_#{shouty.id}" }
   .avatar= gravatar_for(shouty.user).html_safe
-  .body= auto_link(shouty.body, :html => { :target => "_blank" }) { |text| truncate(text, 15) }
+  .body= auto_link(shouty.body, :html => { :target => "_blank" }) { |text| truncate(text, :length => 15) }
   .user= shouty.user.login
   .date= "#{time_ago_in_words(shouty.created_at)} #{I18n.t(:ago)}"
   - if shouty.user == current_user
